@@ -17,3 +17,13 @@ Um guia de carreira para o Desenvolvedor Front End
 ## Sites com vagas para Front End's
 
 * [Lista](job-sites.md)
+
+## Links para estudar sobre Front End
+
+* [Study guides](/study-guides)
+
+## Mantendo-se atualizado
+
+Mantenha-se atualizado nas tecnologias Front End - [front end rescue](https://uptodate.frontendrescue.org/pt/)
+
+Siga os [brasileiros que fazem acontecer](/brazilian-references.md) na área de Front End!
