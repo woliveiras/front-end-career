@@ -1,2 +1,3 @@
-# front-end-career
-Um guia para a carreira do Desenvolvedor Front End
+# Carreira Front End
+
+Um guia de carreira para o Desenvolvedor Front End
