@@ -8,3 +8,8 @@ Um guia de carreira para o Desenvolvedor Front End
 
 * [Front End Engineer](/front-end-engineer)
 * [Front End Designer](/front-end-design)
+
+## Tipos de contratação
+
+* [CLT](contract-type/clt.md)
+* [PJ](contract-type/pj.md)
