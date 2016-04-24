@@ -13,3 +13,7 @@ Um guia de carreira para o Desenvolvedor Front End
 
 * [CLT](contract-type/clt.md)
 * [PJ](contract-type/pj.md)
+
+## Sites com vagas para Front End's
+
+* [Lista](job-sites.md)
