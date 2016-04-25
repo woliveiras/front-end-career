@@ -22,6 +22,11 @@ Um guia de carreira para o Desenvolvedor Front End
 
 * [Study guides](./study-guides)
 
+## Podcasts
+
+* [DEV na Estrada](http://devnaestrada.com.br/)
+* [ZOFE](http://zofe.com.br/)
+
 ## Mantendo-se atualizado
 
 Mantenha-se atualizado nas tecnologias Front End - [front end rescue](https://uptodate.frontendrescue.org/pt/)
