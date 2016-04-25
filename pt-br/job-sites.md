@@ -1,4 +1,4 @@
 # Job Sites
 
-[trampos.co](http://trampos.co/)
-[contratado.me](http://devs.contratado.me/)
+- [contratado.me](http://devs.contratado.me/)
+- [trampos.co](http://trampos.co/)
