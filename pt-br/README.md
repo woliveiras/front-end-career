@@ -7,7 +7,7 @@ Um guia de carreira para o Desenvolvedor Front End
 ## Escolhendo um lado
 
 * [Front End Engineer](./front-end-engineer)
-* [Front End Designer](./front-end-design)
+* [Front End UI Developer](./front-end-ui-developer)
 
 ## Tipos de contratação
 

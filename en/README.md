@@ -7,7 +7,7 @@ A career guide to Front End Developers
 ## Choose your side
 
 * [Front End Engineer](./front-end-engineer)
-* [Front End Designer](./front-end-design)
+* [Front End UI Developer](./front-end-ui-developer)
 
 ## Job web sites for Front End Developers
 
