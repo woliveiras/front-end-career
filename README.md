@@ -6,6 +6,6 @@ A career guide to Front End Developers
 
 Look the guide in your language. ;D
 
-* [en](/en)
-* [es](/es)
-* [pt-br](/pt-br)
+* [en](translations/en)
+* [es](translations/es)
+* [pt-br](translations/pt-br)
