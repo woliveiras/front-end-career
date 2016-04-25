@@ -1,8 +1,9 @@
-# Brasileiros para seguir
-> Lembre-se que não existem super-heróis aqui, são pessoas comuns mas que têm muito a acrescentar à sua carreira. Use os meios de comunicação com eles de forma respeitosa e amigável.
+# Great Developers to follow
 
-**Disclaimer:** Antes de começar a seguir essa galera, leia [esse post](http://danielfilho.github.io/2014/08/20/queime-seus-idolos/). Essa leitura é importante para que você compreenda que essas pessoas são consideradas de forte expressão na nossa área, porém, elas podem errar e/ou ter opiniões divergentes do que é *correto* (assim como todos nós). Por isso, aprenda a pensar sozinho e usar o conhecimento dessas pessoas como **referência** para moldar o seu e chegar às suas próprias conclusões.
+> Remember that there are no superheroes and that they are ordinary people but they have much to add to his career. Use the media with them in a respectful and friendly manner.
 
+
+## Brazilian Peoples
 
 ## Almir Filho
 - :octocat: [Github](https://github.com/almirfilho)
