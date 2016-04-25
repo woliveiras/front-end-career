@@ -8,3 +8,4 @@ Look the guide in your language. ;D
 
 * [en](/en)
 * [pt-br](/pt-br)
+* [es](/es)
