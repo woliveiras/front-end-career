@@ -26,7 +26,7 @@ Um guia de carreira para o Desenvolvedor Front End
 
 Mantenha-se atualizado nas tecnologias Front End - [front end rescue](https://uptodate.frontendrescue.org/pt/)
 
-Siga os [brasileiros que fazem acontecer](./great-developers.md#brazilian-peoples) na área de Front End!
+Siga os [brasileiros que fazem acontecer](/great-developers.md#brazilian-peoples) na área de Front End!
 
 > Lembre-se que não existem super-heróis aqui, são pessoas comuns mas que têm muito a acrescentar à sua carreira. Use os meios de comunicação com eles de forma respeitosa e amigável.
 
