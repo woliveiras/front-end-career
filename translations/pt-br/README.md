@@ -4,6 +4,16 @@ Um guia de carreira para o Desenvolvedor Front End
 
 ## O que todo Desenvolvedor de Software precisa saber
 
+Você precisa saber que: **nada nessa vida é fácil**, mas que, se você se mantiver humilde e com a mente aberta, o caminho fica bem menos espinhoso.
+
+Você não vai virar o Desenvolvedor mais incrível do universo só lendo esse guia, mas pode ir bem longe se seguir os conselhos de pessoas boas (que podem ou não ter contribuido aqui).
+
+Ninguém é melhor do que você, as pessoas só possuem mais experiência, mas o “ser bom” depende do ponto de vista.
+
+Você pode não desenvolver o ultimo algoritmo mais incrível, performático e escalável do dia para a noite, porém você consegue chegar lá se não desistir.
+
+Sua vida/saúde vale mais do que sua profissão. Procure se cuidar, descansar, descontrair. Procure viver fora do emprego.
+
 ## Escolhendo um lado
 
 * [Front End Engineer](./front-end-engineer)
