@@ -18,6 +18,17 @@ Algumas coisas que iniciantes precisam saber, se encontram [nesse link](http://w
 
 Algumas coisas que pessoas desmotivadas precisam saber, se encontram [nesse outro link](http://woliveiras.com.br/posts/Por-que-voce-desistiu-de-ser-Cientista/)
 
+Fora isso é bom que saiba, desde o começo:
+
+* [Clean Code](http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
+* [Inglês](http://www.igorapa.com/fui-aprender-ingles.html)
+* Você precisa saber que o seu código vai ser criticado e não tem problema nisso. Aprenda com as críticas.
+* Você precisa gostar do que faz. E uma maneira de identificar isso é analisando se você gosta do que as pessoas que trabalham com isso falam sobre o que fazem.
+* O salto de Júnior para Pleno é mais técnico, onde a experiência e o estudo precisam levar a um acúmulo e domínio maior de mais e mais tecnologias, ferramentas, procedimentos.
+* O salto de Pleno para Sênior é mais de postura, onde o "programador" passa a ser encarado de fato como um "profissional", alguém a quem sabemos que podemos passar uma responsabilidade e contar com o resultado.
+
+[*Referência sobre os saltos de um nível para outro*](https://github.com/Codeminer42/CarreiraRuby).
+
 ## Escolhendo um lado
 
 É sempre difícil orientar Desenvolvedores Front End sobre quais tecnologias estudar, afinal o mercado de trabalho para essa área é completamente louco!
