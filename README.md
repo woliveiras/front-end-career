@@ -12,4 +12,4 @@ Look the guide in your language. ;D
 * [es](translations/es)
 * [pt-br](translations/pt-br)
 
-[*Reference*](/REFERENCE.MD)
+[*Reference*](/REFERENCE.md)
