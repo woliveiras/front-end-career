@@ -20,7 +20,7 @@ Algumas coisas que pessoas desmotivadas precisam saber, se encontram [nesse outr
 
 ## Escolhendo um lado
 
-É sempre difícil orientar Desenvolvedores Front End sobre quais tecnologias estudar, afinal o mercado é completamente louco!
+É sempre difícil orientar Desenvolvedores Front End sobre quais tecnologias estudar, afinal o mercado de trabalho para essa área é completamente louco!
 
 Uma possível separação para as responsabilidades dos diferentes Front End's é a seguinte:
 
