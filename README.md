@@ -11,3 +11,5 @@ Look the guide in your language. ;D
 * [en](translations/en)
 * [es](translations/es)
 * [pt-br](translations/pt-br)
+
+[*Reference*](/REFERENCE.MD)
