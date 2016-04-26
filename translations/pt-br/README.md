@@ -59,4 +59,4 @@ Conforme foi discutido nesse [tópico](https://github.com/frontendbr/forum/issue
 
 **Disclaimer:** Antes de começar a seguir essa galera, leia [esse post](http://danielfilho.github.io/2014/08/20/queime-seus-idolos/). Essa leitura é importante para que você compreenda que essas pessoas são consideradas de forte expressão na nossa área, porém, elas podem errar e/ou ter opiniões divergentes do que é *correto* (assim como todos nós). Por isso, aprenda a pensar sozinho e usar o conhecimento dessas pessoas como **referência** para moldar o seu e chegar às suas próprias conclusões.
 
-- [Podcasts](https://github.com/cerebrobr/comunidade/blob/master/casts.md)
+- Ouça [Podcasts](https://github.com/cerebrobr/comunidade/blob/master/casts.md)
