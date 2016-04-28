@@ -1,6 +1,6 @@
 # Carreira Front End
 
-Um guia de carreira para o Desenvolvedor Front End
+> Um guia de carreira para o Desenvolvedor Front End
 
 ## O que todo Desenvolvedor de Software precisa saber
 
