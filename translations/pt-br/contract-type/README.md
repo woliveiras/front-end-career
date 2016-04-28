@@ -1,4 +1,4 @@
 # Tipos de contratação
 
-* [CLT](./contract-type/clt.md)
-* [PJ](./contract-type/pj.md)
+* [CLT](./clt.md)
+* [PJ](./pj.md)
