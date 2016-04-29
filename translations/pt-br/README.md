@@ -40,7 +40,23 @@ Uma possível separação para as responsabilidades dos diferentes Front End's �
 
 Conforme foi discutido nesse [tópico](https://github.com/frontendbr/forum/issues/32) do forum [Front End BR](https://github.com/frontendbr/) e nessa [issue](https://github.com/woliveiras/front-end-career/issues/5).
 
+Caso você possua dúvidas sobre qual seu nível profissional ou como funciona isso, seria interessante ouvir esse episódio do Dev na Estrada: [DNE 25 - Júnior, Pleno e Sênior](http://devnaestrada.com.br/2015/10/30/devcast-junior-pleno-senior.html).
+
+Mais alguns episódios que são interessantes para agregar mais conhecimento para sua carreira:
+
+* [DNE 48 - Salário do Desenvolvedor](http://devnaestrada.com.br/2016/04/08/devnaestrada-salario-desenvolvedor.html)
+* [DNE 36 - Entrevista de emprego](http://devnaestrada.com.br/2016/01/15/devnaestrada-entrevista-de-emprego.html)
+* [DNE 35 - Inglês pra quê?](http://devnaestrada.com.br/2016/01/08/devnaestrada-ingles-pra-que.html)
+* [DNE 28 - Sou Sênior e agora?](http://devnaestrada.com.br/2015/11/20/devnaestrada-28-sou-senior-e-agora.html)
+* [DNE 14 - Carreira Front-end](http://devnaestrada.com.br/2015/08/21/devcast-carreira-frontend.html)
+* [DNE 10 - Job Sonho X Realidade](http://devnaestrada.com.br/2015/07/24/devcast-job-sonho-realidade.html)
+* [DNE 08 - Job Pastel](http://devnaestrada.com.br/2015/07/10/devcast-job-pastel.html)
+* [DNE 02 - Trabalho Remoto](http://devnaestrada.com.br/2015/05/29/devcast-trabalho-remoto.html)
+* [DNE 01 - Frontend X Backend](http://devnaestrada.com.br/2015/05/22/devcast-frontend-backend.html)
+
 ## Tipos de contratação
+
+Para conhecer um pouco sobre os regimes de contratação, você pode ouvir esse episódio do DNE: [DNE 19 - Regime de Contratação](http://devnaestrada.com.br/2015/09/18/devcast-regime-contratacao.html).
 
 * [CLT](./contract-type/clt.md)
 * [PJ](./contract-type/pj.md)
