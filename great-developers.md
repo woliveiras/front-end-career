@@ -9,6 +9,10 @@
 - :octocat: [Github](https://github.com/almirfilho)
 - :bird: [Twitter](https://twitter.com/almirfilho)
 
+### Bernard de Luna
+- :books: [Canal Youtube](http://youtube.com/mundodeluna)
+- :bird: [Twitter](https://twitter.com/bernarddeluna)
+
 ### Beto Muniz
 - :books: [Blog](http://betomuniz.com/blog/)
 - :octocat: [Github](https://github.com/obetomuniz)
@@ -23,10 +27,30 @@
 - :octocat: [Github](https://github.com/cironunes)
 - :bird: [Twitter](https://twitter.com/cironunesdev)
 
+### Dani Guerrato
+- :books: [Site](http://blog.popupdesign.com.br/)
+- :octocat: [Github](https://github.com/daniguerrato)
+- :bird: [Twitter](https://twitter.com/daniguerrato)
+
+### Daniel Filho
+- :books: [Site](http://dnl.pw/)
+- :octocat: [Github](https://github.com/danielfilho)
+- :bird: [Twitter](https://twitter.com/danielfilho)
+
+### Diego Eis
+- :books: [Site](http://tableless.com.br)
+- :octocat: [Github](https://github.com/diegoeis)
+- :bird: [Twitter](https://twitter.com/diegoeis)
+
 ### Diogo Moretti
 - :books: [Blog](http://diogo.nu/)
 - :octocat: [Github](https://github.com/diogomoretti)
 - :bird: [Twitter](https://twitter.com/diogomoretti_)
+
+### Eduardo Mattos
+- :books: [Blog](http://eduardomatos.me/)
+- :octocat: [Github](https://github.com/eduardojmatos)
+- :bird: [Twitter](https://twitter.com/eduardojmatos)
 
 ### Eduardo Shiota
 - :books: [Blog](http://eshiota.com/)
@@ -70,6 +94,10 @@
 - :octocat: [Github](https://github.com/cyberglot)
 - :bird: [Twitter](https://twitter.com/cyberglot)
 
+### Leandro Lima
+- :books: [Site](http://blog.popupdesign.com.br/)
+- :bird: [Twitter](https://twitter.com/lesao)
+
 ### Leo Balter
 - :octocat: [Github](https://github.com/leobalter)
 - :bird: [Twitter](https://twitter.com/leobalter)
@@ -88,6 +116,10 @@
 - :octocat: [Github](https://github.com/raphaelfabeni)
 - :bird: [Twitter](https://twitter.com/raphaelfabeni)
 
+### Rafael Rinaldi
+- :octocat: [Github](https://github.com/rafaelrinaldi)
+- :bird: [Twitter](https://twitter.com/rafaelrinaldi)
+
 ### Reinaldo Ferraz
 - :bird: [Twitter](https://twitter.com/reinaldoferraz)
 
@@ -100,6 +132,11 @@
 - :books: [Blog](https://medium.com/@shankarcabus)
 - :octocat: [Github](https://github.com/shankarcabus)
 - :bird: [Twitter](https://twitter.com/ShankarCabus)
+
+### Talita Pagani
+- :books: [Blog](http://talitapagani.com/)
+- :octocat: [Github](https://github.com/talitapagani)
+- :bird: [Twitter](https://twitter.com/talitapagani)
 
 ### Vitor Britto
 - :books: [Blog](http://www.vitorbritto.com.br/blog/)
@@ -115,6 +152,11 @@
 - :books: [Blog](http://willianjusten.com.br/)
 - :octocat: [Github](https://github.com/willianjusten/)
 - :bird: [Twitter](https://twitter.com/Willian_justen)
+
+### Zeh Fernandes
+- :books: [Site](http://zehfernandes.com/)
+- :octocat: [Github](https://github.com/zehfernandes/)
+- :bird: [Twitter](https://twitter.com/zehf)
 
 ### Zeno Rocha
 - :books: [Blog](https://zenorocha.com/blog)
