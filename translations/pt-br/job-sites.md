@@ -13,3 +13,5 @@
 - [GitHub Jobs](https://jobs.github.com/)
 - [Landing Jobs](https://landing.jobs/)
 - [Jobs in tech](http://www.jobsintech.io/)
+
+O [@GuilhermeOmetto](https://github.com/GuilhermeOmetto) indicou [essa lista](https://twitter.com/Onmyouuza/lists/vagas-de-t-i/members) imensa de sites de emprego.
