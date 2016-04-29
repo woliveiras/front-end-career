@@ -10,7 +10,7 @@
 - :bird: [Twitter](https://twitter.com/almirfilho)
 
 ### Bernard de Luna
-- :books: [Canal Youtube](http://youtube.com/mundodeluna)
+- :video_camera: [Canal Youtube](http://youtube.com/mundodeluna)
 - :bird: [Twitter](https://twitter.com/bernarddeluna)
 
 ### Beto Muniz
