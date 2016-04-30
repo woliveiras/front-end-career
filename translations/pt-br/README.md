@@ -28,7 +28,7 @@ Fora isso é bom que saiba, desde o começo:
 * O salto de Pleno para Sênior é mais de postura, onde o "programador" passa a ser encarado de fato como um "profissional", alguém a quem sabemos que podemos passar uma responsabilidade e contar com o resultado.
 
 <p align="center">
-  <img src="/img/voce_vai_se_ferrar_muito.png" alt="Você vai se ferrar muito!">
+  <img src="/img/voce_vai_se_ferrar_muito.png" alt="Você vai se ferrar, e muito!">
 </p>
 
 [*Referência sobre os saltos de um nível para outro*](https://github.com/Codeminer42/CarreiraRuby).
