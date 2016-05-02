@@ -22,7 +22,7 @@ Fora isso é bom que saiba, desde o começo:
 
 * [Clean Code](http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
 * [Inglês](http://www.igorapa.com/fui-aprender-ingles.html)
-* Você precisa saber que o seu código vai ser criticado e não tem problema nisso. Aprenda com as críticas.
+* Você precisa saber que o seu código vai ser criticado e não há problema nisso. Aprenda com as críticas.
 * Você precisa gostar do que faz. E uma maneira de identificar isso é analisando se você gosta do que as pessoas que trabalham com isso falam sobre o que fazem.
 * O salto de Júnior para Pleno é mais técnico, onde a experiência e o estudo precisam levar a um acúmulo e domínio maior de mais e mais tecnologias, ferramentas, procedimentos.
 * O salto de Pleno para Sênior é mais de postura, onde o "programador" passa a ser encarado de fato como um "profissional", alguém a quem sabemos que podemos passar uma responsabilidade e contar com o resultado.
