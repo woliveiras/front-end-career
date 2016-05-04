@@ -35,7 +35,13 @@ Fora isso é bom que saiba, desde o começo:
 
 ## Escolhendo um lado
 
-Antes mesmo de escolher pra qual lado quer seguir (Programação ou Design), você é um **Desenvolvedor**! Portanto entenda o que você precisa para os diferentes níveis profissionais:
+É sempre difícil orientar Desenvolvedores Front End sobre quais tecnologias estudar, afinal o mercado de trabalho para essa área é completamente louco!
+
+Uma possível separação para as responsabilidades dos diferentes Front End's é **Front End Engineer** e o **Front End UI Developer**, conforme foi discutido nesse [tópico](https://github.com/frontendbr/forum/issues/32) do forum [Front End BR](https://github.com/frontendbr/) e nessa [issue](https://github.com/woliveiras/front-end-career/issues/5).
+
+Só que você precisa entender, antes mesmo de escolher pra qual lado quer seguir (Programação ou Design), que você é um **Desenvolvedor**!
+
+Portanto saiba o que você precisa para os diferentes níveis profissionais:
 
 * [Developer](./developer)
 
@@ -43,14 +49,10 @@ Antes mesmo de escolher pra qual lado quer seguir (Programação ou Design), voc
   <img src="/img/developers.jpeg" alt="Developers, developers, developers, developers!">
 </p>
 
-É sempre difícil orientar Desenvolvedores Front End sobre quais tecnologias estudar, afinal o mercado de trabalho para essa área é completamente louco!
-
-Uma possível separação para as responsabilidades dos diferentes Front End's é a seguinte:
+Depois foque em um caminho:
 
 * [Front End Engineer](./front-end-engineer)
 * [Front End UI Developer](./front-end-ui-developer)
-
-Conforme foi discutido nesse [tópico](https://github.com/frontendbr/forum/issues/32) do forum [Front End BR](https://github.com/frontendbr/) e nessa [issue](https://github.com/woliveiras/front-end-career/issues/5).
 
 Caso você possua dúvidas sobre qual seu nível profissional ou como funciona isso, seria interessante ouvir esse episódio do Dev na Estrada: [DNE 25 - Júnior, Pleno e Sênior](http://devnaestrada.com.br/2015/10/30/devcast-junior-pleno-senior.html).
 
