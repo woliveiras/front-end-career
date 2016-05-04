@@ -9,8 +9,8 @@ A career guide to Front End Developers
 
 Look the guide in your language. ;D
 
-* [en](translations/en)
-* [es](translations/es)
-* [pt-br](translations/pt-br)
+* [en](translations/en/README.md)
+* [es](translations/es/README.md)
+* [pt-br](translations/pt-br/README.md)
 
 [*Reference*](/REFERENCE.md)
