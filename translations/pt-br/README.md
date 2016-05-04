@@ -35,6 +35,14 @@ Fora isso é bom que saiba, desde o começo:
 
 ## Escolhendo um lado
 
+Antes mesmo de escolher pra qual lado quer seguir (Programação ou Design), você é um **Desenvolvedor**! Portanto entenda o que você precisa para os diferentes níveis profissionais:
+
+* [Developer](./developer)
+
+<p align="center">
+  <img src="/img/developers.jpeg" alt="Developers, developers, developers, developers!">
+</p>
+
 É sempre difícil orientar Desenvolvedores Front End sobre quais tecnologias estudar, afinal o mercado de trabalho para essa área é completamente louco!
 
 Uma possível separação para as responsabilidades dos diferentes Front End's é a seguinte:
