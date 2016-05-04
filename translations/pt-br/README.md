@@ -43,7 +43,7 @@ Só que você precisa entender, antes mesmo de escolher pra qual lado quer segui
 
 Portanto saiba o que você precisa para os diferentes níveis profissionais:
 
-* [Developer](./developer)
+* [Developer](./developer/README.md)
 
 <p align="center">
   <img src="/img/developers.jpeg" alt="Developers, developers, developers, developers!">
@@ -51,8 +51,8 @@ Portanto saiba o que você precisa para os diferentes níveis profissionais:
 
 Depois foque em um caminho:
 
-* [Front End Engineer](./front-end-engineer)
-* [Front End UI Developer](./front-end-ui-developer)
+* [Front End Engineer](./front-end-engineer/README.md)
+* [Front End UI Developer](./front-end-ui-developer/README.md)
 
 Caso você possua dúvidas sobre qual seu nível profissional ou como funciona isso, seria interessante ouvir esse episódio do Dev na Estrada: [DNE 25 - Júnior, Pleno e Sênior](http://devnaestrada.com.br/2015/10/30/devcast-junior-pleno-senior.html).
 
