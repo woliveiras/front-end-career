@@ -17,3 +17,5 @@ Você consegue tomar decisões cada vez mais importantes em um projeto.
 Ser Senior não está ligado somente ao tempo em que você trabalha, mas ao seu conhecimento adquirido nesse tempo e as suas atitudes profissionais.
 
 Agora que chegou a esse nível está mais que na hora de transmitir seus conhecimentos para assim virar um **Mestre Desenvolvedor**!
+
+*[Voltar para "escolhendo um lado"](/translations/pt-br/README.md#escolhendo-um-lado)*
