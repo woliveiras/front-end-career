@@ -10,4 +10,6 @@ Você vai errar, vai errar muito, vai errar pra caramba se for pro ativo, mas is
 
 Você precisa, não só nesse nível, deixar a vergonha (ou o orgulho) de lado e perguntar. Ninguém vai te mandar em bora por querer aprender.
 
+Nesse nível você ainda não domina a arte de entregar atividades rapidamente ou estimar prazos para essas tarefas.
+
 Quando você ganhar XP suficiente, vai virar um [Pleno](./pleno.md)!
