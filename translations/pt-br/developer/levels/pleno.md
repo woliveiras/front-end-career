@@ -18,4 +18,4 @@ Só não deixe isso subir a cabeça!
 
 O nível [senior](./senior.md) é o que vai te dar mais trabalho e responsabilidade e pode ser alcançado quando você tiver entre 4 a 6 anos de experiência. - Mas não foque no tempo, foque nos conhecimentos técnicos e outras capacidades que você deve possuir.
 
-*[Voltar para o começo](/translations/pt-br/README.md)*
+*[Voltar para "escolhendo um lado"](/translations/pt-br/README.md#escolhendo-um-lado)*
