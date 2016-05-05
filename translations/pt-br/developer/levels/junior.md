@@ -12,4 +12,6 @@ Você precisa, não só nesse nível, deixar a vergonha (ou o orgulho) de lado e
 
 Nesse nível você ainda não domina a arte de entregar atividades rapidamente ou estimar prazos para essas tarefas.
 
+Também é interessante que você possua um [mentor](https://github.com/training-center/mentoria/) ou algo parecido. Pode ser uma pessoa que te inspira para você seguir os passos e tentar fazer igual.
+
 Quando você ganhar XP suficiente, vai virar um [Pleno](./pleno.md)!
