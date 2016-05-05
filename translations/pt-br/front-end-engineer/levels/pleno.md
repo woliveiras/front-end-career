@@ -13,7 +13,7 @@ Nesse nível você já domina os requisitos técnicos que um [junior](./junior.m
 * Performance (tanto do [JavaScript](https://www.smashingmagazine.com/2012/11/writing-fast-memory-efficient-javascript/), quanto do CSS, [sim do CSS](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Writing_efficient_CSS))
 * SEO (estruturação do HTML, resolver a listinha do PageSpeed, Schema.org)
 
-Se você já domina tudo isso, então você deve estar no nível [senior](./senior.md) ou chegando lá.
+Se você já domina tudo isso, então você deve estar no nível [sênior](./senior.md) ou chegando lá.
 
 `----------------------------------------------------------------`
 
