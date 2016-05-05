@@ -18,6 +18,8 @@ Não corra durante os estudos, pratique muito tudo o que você aprender até ter
 
 Caso você já domine essas coisas, talvez você já seja um [Front End Engineer Pleno](./pleno.md)!
 
+`----------------------------------------------------------------`
+
 Se você estiver buscando uma fonte de estudos, de uma [olhadinha aqui](/translations/pt-br/study-guides/README.md).
 
 *[Voltar para "escolhendo um lado"](/translations/pt-br/README.md#escolhendo-um-lado)*
