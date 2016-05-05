@@ -6,6 +6,8 @@ Nesse nível você já domina os requisitos técnicos que um [junior](./junior.m
 * Manutenibilidade
 * Padrões de Projetos aplicado ao JavaScript e ao CSS (básico, pelo menos)
 * Conhece/trabalha com algum Framework CSS e JS
+* Pré processadores CSS (por favor gente)
+* Template Engines HTML (da uma olhada [aqui](https://developer.mozilla.org/en-US/docs/JavaScript_templates), [aqui](http://www.sitepoint.com/overview-javascript-templating-engines/) e [aqui](https://garann.github.io/template-chooser/))
 * Manja alguns paradigmas de programação (OOP, Funcional, etc)
 * Atende aos multiplos navegadores e suas diferenças
 * Criar um ambiente de desenvolvimento ou um Boilerplate para startar seus projetos facilmente
