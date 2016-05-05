@@ -9,3 +9,5 @@ Nesse nível você não domina as linguagens de programação, ferramentas, ambi
 Você vai errar, vai errar muito, vai errar pra caramba se for pro ativo, mas isso não é tão ruim. A não ser que você erre nas mesmas coisas todos os dias, você pode errar, pois está tentando, está aprendendo. Se não estiver errando muito, é por que está tentando pouco. - E, talvez, com isso você deve estar enchendo alguém de perguntas, antes mesmo de começar a pensar. Cuidado com essa atitude.
 
 Você precisa, não só nesse nível, deixar a vergonha (ou o orgulho) de lado e perguntar. Ninguém vai te mandar em bora por querer aprender.
+
+Quando você ganhar XP suficiente, vai virar um [Pleno](./pleno.md)!
