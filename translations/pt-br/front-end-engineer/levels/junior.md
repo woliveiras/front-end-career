@@ -16,3 +16,7 @@ Dependendo de sua região, empresa onde for trabalhar, você precisa saber manus
 Não corra durante os estudos, pratique muito tudo o que você aprender até ter coragem de falar que sabe aquilo!
 
 Caso você já domine essas coisas, talvez você já seja um [Front End Engineer Pleno](./pleno.md)!
+
+Se você estiver buscando uma fonte de estudos, de uma [olhadinha aqui](/translations/pt-br/study-guides/README.md).
+
+*[Voltar para "escolhendo um lado"](/translations/pt-br/README.md#escolhendo-um-lado)*
