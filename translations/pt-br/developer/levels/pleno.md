@@ -2,7 +2,9 @@
 
 > Daqui a pouco você vira mestre e vai poder ensinar alguém! =O
 
-Nesse nível você já consegue se virar sozinho. Possui experiência de 1 ou 2 anos (talvez menos dependendo de sua disposição para aprender) e já desempenha bem suas atividades sem ajuda de alguém. Agora você também consegue ajudar outros devs **juniores**!
+Nesse nível você já consegue se virar muito bem sozinho.
+
+Possui experiência de 1/2 anos ou mais como Júnior (talvez menos dependendo de sua disposição para aprender) e já desempenha bem suas atividades sem ajuda de alguém. Agora você também consegue ajudar outros devs **juniores**!
 
 Você já é quase um mestre, então consegue estimar prazos para suas atividades e consegue entregar mais rapidamente coisas que antes você demorava para fazer. - Meus parabéns!
 
