@@ -15,3 +15,5 @@ Nesse nível você ainda não domina a arte de entregar atividades rapidamente o
 Também é interessante que você possua um [mentor](https://github.com/training-center/mentoria/) ou algo parecido. Pode ser uma pessoa que te inspira para você seguir os passos e tentar fazer igual.
 
 Quando você ganhar XP suficiente, vai virar um [Pleno](./pleno.md)!
+
+*[Voltar para o começo](/translations/pt-br/README.md)*
