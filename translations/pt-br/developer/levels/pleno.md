@@ -8,9 +8,11 @@ Possui experiência de 1/2 anos ou mais como Júnior (talvez menos dependendo de
 
 Você já é quase um mestre, então consegue estimar prazos para suas atividades e consegue entregar mais rapidamente coisas que antes você demorava para fazer. - Meus parabéns!
 
-Nesse nível você pode não ser capaz, ainda, de planejar algo grande ou construir algo do zero sozinho, mas não se coloque para baixo por isso.
+Você já deve ser capaz de dar palpites para melhorar algo em que trabalha, consegue inovar trazendo coisas legais para o trabalho e continua sedento por conhecimento, não deixando de lado a opinião dos outros.
 
-Nesse nível você pode ser confundido por ai como um **senior** (ou **mestre**) e isso é muito bom! É sinal que você está aprendendo muito com o tempo e está ficando realmente bom.
+Nesse nível você pode não ser capaz, ainda, de planejar algo grande ou construir algo do zero sozinho, mas não se coloque para baixo por isso. Procure melhorar e [continue a nadar](http://cinemacomrapadura.com.br/colunas/acme/288817/entenda-por-que-o-continue-a-nadar-e-o-hakuna-matata-dos-anos-2000/).
+
+Nesse nível, se você destruiu de estudar e praticar, você pode ser confundido por aí como um **senior** (ou **mestre**) e isso é muito legal! É sinal que você está aprendendo muito com o tempo e está ficando realmente bom.
 
 Só não deixe isso subir a cabeça!
 
