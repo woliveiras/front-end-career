@@ -16,4 +16,4 @@ Também é interessante que você possua um [mentor](https://github.com/training
 
 Quando você ganhar XP suficiente, vai virar um [Pleno](./pleno.md)!
 
-*[Voltar para o começo](/translations/pt-br/README.md)*
+*[Voltar para "escolhendo um lado"](/translations/pt-br/README.md#escolhendo-um-lado)*
