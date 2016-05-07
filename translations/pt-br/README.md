@@ -54,6 +54,8 @@ Depois foque em um caminho:
 * [Front End Engineer](./front-end-engineer/README.md)
 * [Front End UI Developer](./front-end-ui-developer/README.md)
 
+[Nesse link](http://www.frontendhandbook.com/practice/types-of-front-end-dev.html) temos mais perfis de Front End, diferentes, pra você ver onde está se metendo! - É uma loucura.
+
 Caso você possua dúvidas sobre qual seu nível profissional ou como funciona isso, seria interessante ouvir esse episódio do Dev na Estrada: [DNE 25 - Júnior, Pleno e Sênior](http://devnaestrada.com.br/2015/10/30/devcast-junior-pleno-senior.html).
 
 Mais alguns episódios que são interessantes para agregar mais conhecimento para sua carreira:
