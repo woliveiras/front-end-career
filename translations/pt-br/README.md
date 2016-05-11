@@ -72,10 +72,25 @@ Mais alguns episódios que são interessantes para agregar mais conhecimento par
 
 ## Tipos de contratação
 
-Para conhecer um pouco sobre os regimes de contratação, você pode ouvir esse episódio do DNE: [DNE 19 - Regime de Contratação](http://devnaestrada.com.br/2015/09/18/devcast-regime-contratacao.html).
+Alguns recursos para conhecer os tipos de contratação:
 
-* [CLT](./contract-type/clt.md)
-* [PJ](./contract-type/pj.md)
+**Tipos de contratação**
+
+* [DNE 19 - Regime de Contratação](http://devnaestrada.com.br/2015/09/18/devcast-regime-contratacao.html)
+* [Tipos de contratação, Infomoney](http://www.infomoney.com.br/minhas-financas/noticia/606833/tipos-contrato-trabalho)
+
+**Sobre PJ**
+
+* [CLT ou PJ, entenda como funcionam, Trampos.co](http://tutano.trampos.co/4587-clt-ou-pj-entenda-como-funcionam/)
+* [8 pontos para considerar bem antes de topar ser PJ, Exame](http://exame.abril.com.br/carreira/noticias/proposta-indecorosa)
+* [Saiba como não cair em armadilhas ao ser contratado como PJ, Exame](http://exame.abril.com.br/carreira/noticias/saiba-como-nao-cair-em-armadilhas-ao-ser-contratado-como-pj)
+* [Dicas para os PJ's](http://www.contratopj.com.br/)
+
+**Sobre CLT/CLT-Flex e mais**
+
+* [Tópico sobre CLT, CLT-Flex, Cooperado e um pouco mais no GUJ](http://www.guj.com.br/t/tipos-de-contratacao-qual-a-diferenca/49184/3), dica do [@thebergamo](https://github.com/thebergamo)
+* [Você já ouviu falar em contratação CLT flex? Veja direitos, Exame](http://exame.abril.com.br/carreira/noticias/voce-ja-ouviu-falar-em-contratacao-clt-flex-veja-direitos)
+* [Contratação criativa, a CLT Flex e a pejotização nas empresas, Catho](http://www.catho.com.br/carreira-sucesso/gestao-rh/contratacao-criativa-a-clt-flex-e-a-pejotizacao-nas-empresas)
 
 ## [Sites com vagas para Front End's](./job-sites.md)
 
