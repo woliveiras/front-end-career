@@ -1,31 +1,31 @@
 # Carreira Front End
 
-> Um guia de carreira para o Desenvolvedor Front End
+> Um guia de carreira para o(a) Desenvolvedor(a) Front End
 
-## O que todo Desenvolvedor de Software precisa saber
+## O que todo(a) Desenvolvedor(a) de Software precisa saber
 
 Você precisa saber que: **nada nessa vida é fácil**, mas que, se você se mantiver humilde e com a mente aberta, o caminho fica bem menos espinhoso.
 
-Você não vai virar o Desenvolvedor mais incrível do universo só lendo esse guia, mas pode ir bem longe se seguir os conselhos de pessoas boas (que podem ou não ter contribuido aqui).
+Você não vai virar o(a) Desenvolvedor(a) mais incrível do universo só lendo esse guia, mas pode ir bem longe se seguir os conselhos de pessoas boas e experiêntes (que podem ou não ter contribuido aqui).
 
-Ninguém é melhor do que você, as pessoas só possuem mais experiência, mas o “ser bom” depende do ponto de vista.
+Ninguém é melhor do que você, as pessoas só possuem mais experiência, ainda mais por que o *“ser bom”* depende do ponto de vista.
 
 Você pode não desenvolver o ultimo algoritmo mais incrível, performático e escalável do dia para a noite, porém você consegue chegar lá se não desistir.
 
 Sua vida/saúde vale mais do que sua profissão. Procure se cuidar, descansar, descontrair. Procure viver fora do emprego.
 
-Mais algumas coisas, que iniciantes precisam saber, se encontram [nesse link](http://willianjusten.com.br/o-que-ninguem-diz-para-iniciantes/).
+Mais algumas coisas, que iniciantes precisam saber, encontramos [nesse link](http://willianjusten.com.br/o-que-ninguem-diz-para-iniciantes/).
 
-E algumas coisas que pessoas desmotivadas precisam saber, se encontram [nesse outro link](http://woliveiras.com.br/posts/Por-que-voce-desistiu-de-ser-Cientista/)
+E algumas coisas que pessoas desmotivadas precisam saber, encontramos [nesse outro link](http://woliveiras.com.br/posts/Por-que-voce-desistiu-de-ser-Cientista/)
 
 Fora isso é bom que saiba, desde o começo:
 
 * [Clean Code](http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
 * [Inglês](http://www.igorapa.com/fui-aprender-ingles.html)
-* Você precisa saber que o seu código vai ser criticado e não há problema nisso. Aprenda com as críticas.
-* Você precisa gostar do que faz. E uma maneira de identificar isso é analisando se você gosta do que as pessoas que trabalham com isso falam sobre o que fazem.
+* Seu código vai ser criticado e não há problema nisso. Aprenda com as críticas.
+* Você precisa gostar do que faz e uma maneira de identificar se isso acontece é analisando se você gosta do que as pessoas que trabalham com Front End falam sobre o que fazem.
 * O salto de Júnior para Pleno é mais técnico, onde a experiência e o estudo precisam levar a um acúmulo e domínio maior de mais e mais tecnologias, ferramentas, procedimentos.
-* O salto de Pleno para Sênior é mais de postura, onde o "programador" passa a ser encarado de fato como um "profissional", alguém a quem sabemos que podemos passar uma responsabilidade e contar com o resultado.
+* O salto de Pleno para Sênior é mais de postura, onde o(a) "programador(a)" passa a ser encarado de fato como um(a) "profissional", alguém a quem sabemos que podemos passar uma responsabilidade e contar com o resultado.
 
 <p align="center">
   <img src="/img/voce_vai_se_ferrar_muito.png" alt="Você vai se ferrar, e muito!">
@@ -35,18 +35,20 @@ Fora isso é bom que saiba, desde o começo:
 
 ## Escolhendo um lado
 
-É sempre difícil orientar Desenvolvedores Front End sobre quais tecnologias deve estudar, afinal o mercado de trabalho para essa área é completamente louco!
+É sempre difícil orientar Desenvolvedores(as) Front End sobre quais tecnologias deve estudar, afinal o mercado de trabalho para essa área é completamente louco!
 
 Uma possível separação para as responsabilidades dos diferentes Front End's é: **Front End Engineer** e **Front End UI Developer**. Conforme foi discutido nesse [tópico](https://github.com/frontendbr/forum/issues/32) do forum [Front End BR](https://github.com/frontendbr/) e nessa [issue](https://github.com/woliveiras/front-end-career/issues/5) aqui no Carreira Front End.
 
-Só que você precisa entender, antes mesmo de escolher pra qual lado quer seguir (Programação ou Design), que você é um **Desenvolvedor**!
+Mas, antes mesmo de escolher pra qual lado seguir (Programação ou Design), você precisa entender que você é um(a) **Desenvolvedor(a)**!
 
-Portanto saiba o que você precisa para os diferentes níveis profissionais:
+Portanto aprenda, primeiro, o que você precisa para os diferentes níveis profissionais para se tornar um(a) bom/boa Desenvolvedor(a).
 
 * [Developer](./developer/README.md)
 
 <p align="center">
-  <img src="/img/developers.jpeg" alt="Developers, developers, developers, developers!">
+  <a href="./developer/README.md" title="developer">
+    <img src="/img/developers.jpeg" alt="Developers, developers, developers, developers!" width="50%">
+  </a>
 </p>
 
 Depois foque em um caminho:
@@ -92,11 +94,17 @@ Alguns recursos para conhecer os tipos de contratação:
 * [Você já ouviu falar em contratação CLT flex? Veja direitos, Exame](http://exame.abril.com.br/carreira/noticias/voce-ja-ouviu-falar-em-contratacao-clt-flex-veja-direitos)
 * [Contratação criativa, a CLT Flex e a pejotização nas empresas, Catho](http://www.catho.com.br/carreira-sucesso/gestao-rh/contratacao-criativa-a-clt-flex-e-a-pejotizacao-nas-empresas)
 
-## [Sites com vagas para Front End's](./job-sites.md)
+## Sites com Vagas para Front End's
 
-## [Links para estudar sobre Front End](./study-guides)
+Nesse [link](./job-sites.md) você encontra a lista de alguns sites com vagas na área.
+
+## Links para estudar sobre Front End
+
+Caso você esteja procurando conteúdo para aprender ou aprofundar na área de Front End, da uma olhada nesse [link](./study-guides).
 
 ## Mantendo-se atualizado
+
+Qualquer bom profissional precisa manter-se atualizado sobre sua área de atuação e sobre o mercado de trabalho, portanto aconselho a dar uma olhada nesses links:
 
 * Mantenha-se atualizado nas tecnologias Front End - [front end rescue](https://uptodate.frontendrescue.org/pt/)
 
