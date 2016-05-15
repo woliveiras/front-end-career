@@ -43,7 +43,7 @@ Mas, antes mesmo de escolher pra qual lado seguir (Programação ou Design), voc
 
 Portanto aprenda, primeiro, o que você precisa para os diferentes níveis profissionais para se tornar um(a) bom/boa Desenvolvedor(a).
 
-* [Developer](./developer/README.md)
+* [Developer](./sources/developer.md)
 
 <p align="center">
   <a href="./developer/README.md" title="developer">
@@ -53,8 +53,8 @@ Portanto aprenda, primeiro, o que você precisa para os diferentes níveis profi
 
 Depois foque em um caminho:
 
-* [Front End Engineer](./front-end-engineer/README.md)
-* [Front End UI Developer](./front-end-ui-developer/README.md)
+* [Front End Engineer](./sources/engineer.md)
+* [Front End UI Developer](./sources/ui-developer.md)
 
 [Nesse link](http://www.frontendhandbook.com/practice/types-of-front-end-dev.html) temos mais perfis de Front End, diferentes, pra você ver onde está se metendo! - É uma loucura.
 
@@ -100,7 +100,7 @@ Nesse [link](./job-sites.md) você encontra a lista de alguns sites com vagas na
 
 ## Links para estudar sobre Front End
 
-Caso você esteja procurando conteúdo para aprender ou aprofundar na área de Front End, da uma olhada nesse [link](./study-guides).
+Caso você esteja procurando conteúdo para aprender ou aprofundar na área de Front End, da uma olhada nesse [link](./study-guides.md).
 
 ## Mantendo-se atualizado
 
