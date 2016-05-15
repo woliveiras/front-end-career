@@ -14,9 +14,9 @@ Você pode não desenvolver o ultimo algoritmo mais incrível, performático e e
 
 Sua vida/saúde vale mais do que sua profissão. Procure se cuidar, descansar, descontrair. Procure viver fora do emprego.
 
-Algumas coisas que iniciantes precisam saber, se encontram [nesse link](http://willianjusten.com.br/o-que-ninguem-diz-para-iniciantes/).
+Mais algumas coisas, que iniciantes precisam saber, se encontram [nesse link](http://willianjusten.com.br/o-que-ninguem-diz-para-iniciantes/).
 
-Algumas coisas que pessoas desmotivadas precisam saber, se encontram [nesse outro link](http://woliveiras.com.br/posts/Por-que-voce-desistiu-de-ser-Cientista/)
+E algumas coisas que pessoas desmotivadas precisam saber, se encontram [nesse outro link](http://woliveiras.com.br/posts/Por-que-voce-desistiu-de-ser-Cientista/)
 
 Fora isso é bom que saiba, desde o começo:
 
