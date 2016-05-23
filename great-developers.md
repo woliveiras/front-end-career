@@ -3,7 +3,7 @@
 > Remember that there are no superheroes and that they are ordinary people but they have much to add to his career. Use the media with them in a respectful and friendly manner.
 
 
-## Brazilian Peoples
+## Brazilian People
 
 ### Almir Filho
 - :octocat: [Github](https://github.com/almirfilho)
