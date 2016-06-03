@@ -12,7 +12,7 @@ Você vai errar, vai errar muito, vai errar pra caramba se for pro ativo, mas is
 
 Se não estiver errando é por que está tentando pouco. - E, talvez, com isso você deve estar enchendo alguém de perguntas, antes mesmo de começar a pensar. Cuidado com essa atitude.
 
-Você precisa, não só nesse nível, deixar a vergonha (ou o orgulho) de lado e **perguntar**. Ninguém vai te mandar em bora por querer aprender.
+Você precisa, não só nesse nível, deixar a vergonha (ou o orgulho) de lado e **perguntar**. Ninguém vai te mandar embora por querer aprender.
 
 Nesse nível você ainda não domina a arte de entregar atividades rapidamente ou estimar prazos para as tarefas.
 
