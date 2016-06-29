@@ -14,3 +14,5 @@ Look the guide in your language. ;D
 * [pt-br](translations/pt-br/README.md)
 
 [*Reference*](/REFERENCE.md)
+
+Made by Front End community for all peoples.
