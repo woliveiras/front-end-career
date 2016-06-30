@@ -132,6 +132,11 @@
 - :newspaper: [Blog](https://medium.com/@shankarcabus)
 - :octocat: [Github](https://github.com/shankarcabus)
 - :bird: [Twitter](https://twitter.com/ShankarCabus)
+ 
+### Suissa
+- :newspaper: [Blog](http://nomadev.com.br/)
+- :octocat: [Github](https://github.com/suissa)
+- :bird: [Twitter](https://twitter.com/osuissa)
 
 ### Talita Pagani
 - :newspaper: [Blog](http://talitapagani.com/)
