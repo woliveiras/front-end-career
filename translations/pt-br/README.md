@@ -18,7 +18,7 @@ Mais algumas coisas, que iniciantes precisam saber, encontramos [nesse link](htt
 
 E algumas coisas que pessoas desmotivadas precisam saber, encontramos [nesse outro link](http://woliveiras.com.br/posts/Por-que-voce-desistiu-de-ser-Cientista/)
 
-Além de tudo isso, saia da sua <a href="https://www.youtube.com/watch?v=hS8V9eODGQ0">zona de conforto</a>!
+Não fique na sua [zona de conforto](https://www.youtube.com/watch?v=hS8V9eODGQ0)!
 
 Fora isso é bom que saiba, desde o começo:
 
