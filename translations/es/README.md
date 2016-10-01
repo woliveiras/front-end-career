@@ -33,16 +33,18 @@ Aparte de eso, es bueno saber, desde el comienzo:
 
 [*Referencia sobre los saltos de un nível a otro*](https://github.com/Codeminer42/CarreiraRuby).
 
-## Escoge el lado que más te gusta
+## Escogiendo un camino/carrera
 
 Siempre es difícil de guíar a los(as) desarrolladores(as) Front-End sobre cuales tecnologías deben estudiar, después de todo el mercado de trabajo en ésta área ¡está completamente loco!
 
-Una posible separación de las responsabilidades de los diferentes Front-End's es: **Ingeniero Front-End** y **Desarrollador Front-End UI**. Como se distució en este [tema](https://github.com/frontendbr/forum/issues/32) del foro [Front End BR](https://github.com/frontendbr/) y en está [issue](https://github.com/woliveiras/front-end-career/issues/5) aquí en Carrera Front-End.
+Una posible separación de las responsabilidades de los diferentes Front-End's es: **Ingeniero Front-End** y **Desarrollador Front-End UI**. Tal como se discutió en este [tema](https://github.com/frontendbr/forum/issues/32) del foro [Front End BR](https://github.com/frontendbr/) y en ésta [issue](https://github.com/woliveiras/front-end-career/issues/5) aquí en Carrera Front-End.
 
 Pero antes de elegir que lado seguir (Programación o Diseño), es necesario entender que usted es un(a) ¡** Desarrollador(a) **!
 
-Así que aprende, en primer lugar, lo que se necesita para los diferentes niveles de profesionales para convertirse en un(a) buen(a) desarrollador(a).
+Así que aprende, en primer lugar, lo que se necesita saber para los diferentes niveles de profesionales para convertirse en un(a) buen(a) desarrollador(a).
+
 * [Desarrollador](./sources/developer.md)
+
 <p align="center">
   <a href="./developer/README.md" title="developer">
     <img src="/img/developers.jpeg" alt="Developers, developers, developers, developers!" width="50%">
@@ -59,15 +61,15 @@ Después, enfoquese en un camino:
 Si tiene alguna duda sobre cual es su nivel profesional o cómo funciona esto, sería interesante escuchar este episodio de "Dev na Estrada": [DNE 25 - Júnior, Pleno e Sênior](http://devnaestrada.com.br/2015/10/30/devcast-junior-pleno-senior.html). (en portugués)
 
 Otros episodios que son interesantes para agregar mas conocimientos en su carrera: 
-* [DNE 48 - Salário do Desenvolvedor](http://devnaestrada.com.br/2016/04/08/devnaestrada-salario-desenvolvedor.html)
-* [DNE 36 - Entrevista de emprego](http://devnaestrada.com.br/2016/01/15/devnaestrada-entrevista-de-emprego.html)
-* [DNE 35 - Inglês pra quê?](http://devnaestrada.com.br/2016/01/08/devnaestrada-ingles-pra-que.html)
-* [DNE 28 - Sou Sênior e agora?](http://devnaestrada.com.br/2015/11/20/devnaestrada-28-sou-senior-e-agora.html)
-* [DNE 14 - Carreira Front-end](http://devnaestrada.com.br/2015/08/21/devcast-carreira-frontend.html)
-* [DNE 10 - Job Sonho X Realidade](http://devnaestrada.com.br/2015/07/24/devcast-job-sonho-realidade.html)
+* [DNE 48 - Salário do Desenvolvedor](http://devnaestrada.com.br/2016/04/08/devnaestrada-salario-desenvolvedor.html) (Sueldo de un desarrollador)
+* [DNE 36 - Entrevista de emprego](http://devnaestrada.com.br/2016/01/15/devnaestrada-entrevista-de-emprego.html) (Entrevista de trabajo)
+* [DNE 35 - Inglês pra quê?](http://devnaestrada.com.br/2016/01/08/devnaestrada-ingles-pra-que.html) (Inglés, ¿Para qué?)
+* [DNE 28 - Sou Sênior e agora?](http://devnaestrada.com.br/2015/11/20/devnaestrada-28-sou-senior-e-agora.html) (Soy Senior, ¿Ahora que?)
+* [DNE 14 - Carreira Front-end](http://devnaestrada.com.br/2015/08/21/devcast-carreira-frontend.html) (Carrera Front-End)
+* [DNE 10 - Job Sonho X Realidade](http://devnaestrada.com.br/2015/07/24/devcast-job-sonho-realidade.html) (Trabajo soñado - Realidad)
 * [DNE 08 - Job Pastel](http://devnaestrada.com.br/2015/07/10/devcast-job-pastel.html)
-* [DNE 02 - Trabalho Remoto](http://devnaestrada.com.br/2015/05/29/devcast-trabalho-remoto.html)
-* [DNE 01 - Frontend X Backend](http://devnaestrada.com.br/2015/05/22/devcast-frontend-backend.html)
+* [DNE 02 - Trabalho Remoto](http://devnaestrada.com.br/2015/05/29/devcast-trabalho-remoto.html) (Trabajo Remoto)
+* [DNE 01 - Frontend X Backend](http://devnaestrada.com.br/2015/05/22/devcast-frontend-backend.html) (Front-End - Backend)
 
 >Nota: todos en portugues.
 
