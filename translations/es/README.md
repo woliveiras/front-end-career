@@ -21,7 +21,7 @@ Y algunas cosas que las personas desmotivadas necesitan saber lo encontramos en 
 
 Aparte de eso, es bueno saber, desde el comienzo:
 * [Clean Code](http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
-* [Inglês](http://www.igorapa.com/fui-aprender-ingles.html)
+* [Inglés](http://www.igorapa.com/fui-aprender-ingles.html)
 * Su código será criticado y no hay problema con eso. Aprenda con las crítica.
 * Es necesario amar lo que hace y una manera de identificar si esto ocurre es analizando si le interesa lo que las personas que trabajan como Front-End hablan de lo que lo hacen.
 * El salto de Junior a Semi-Senior es mas técnico, donde la experiencia y el estudio deben llevar a una acumulación y a un mayor dominio de mas y mas tecnologías, herramientas, procedimientos.
@@ -39,7 +39,7 @@ Siempre es difícil de guíar a los(as) desarrolladores(as) Front-End sobre cual
 
 Una posible separación de las responsabilidades de los diferentes Front-End's es: **Ingeniero Front-End** y **Desarrollador Front-End UI**. Tal como se discutió en este [tema](https://github.com/frontendbr/forum/issues/32) del foro [Front End BR](https://github.com/frontendbr/) y en ésta [issue](https://github.com/woliveiras/front-end-career/issues/5) aquí en Carrera Front-End.
 
-Pero antes de elegir que lado seguir (Programación o Diseño), es necesario entender que usted es un(a) ¡** Desarrollador(a) **!
+Pero antes de elegir que lado seguir (Programación o Diseño), es necesario entender que usted es un(a) ¡**Desarrollador(a)**!
 
 Así que aprende, en primer lugar, lo que se necesita saber para los diferentes niveles de profesionales para convertirse en un(a) buen(a) desarrollador(a).
 
@@ -75,7 +75,7 @@ Otros episodios que son interesantes para agregar mas conocimientos en su carrer
 
 ## Sitios de trabajos y ofertas para Front End Developers
 
-* [Lista](./job-sites.md)
+* En este [enlace](./job-sites.md) puede encontrar una lista de sitios con ofertas de trabajos del área.
 
 ## Links para estudiar Front End
 
