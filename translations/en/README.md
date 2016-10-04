@@ -15,7 +15,7 @@ A career guide to Front End Developers
 
 ## Links to study about Front End
 
-* [Study guides](./study-guides)
+If you are looking for study content or want to get deeper into Front End, check out this [study guides](./study-guides).
 
 ## Keeping updated
 
