@@ -22,3 +22,7 @@ If you are looking for study content or want to get deeper into Front End, check
 Keep updated in Front End technologies - [front end rescue](https://uptodate.frontendrescue.org/)
 
 Follow [developers who make it happen](/great-developers.md)!
+
+## Front End FAQ
+
+Based in several repeated questions we see in forums, I have created this [repo ("FFAQ", Frequently Front Asked Questions!)](https://github.com/woliveiras/FFAQ/) to centralize the answers and be easier to answer such common questions.
