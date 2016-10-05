@@ -1,12 +1,12 @@
-# Career levels the a Front End Engineer
+# Front-End Engineer: Career Levels
 
 ## Junior Front End Engineer 
 
-Now what you know whon your responsibility like Junior Developer, time has come to focus us technical requirements.
+Now, that you know which are your responsibilities as Junior Developer, it's time to focus on technical requirements.
 
 Requirements for Junior Front End Engineer:
 
-* HTML (encode a basic struct, understanding about semantic and accessibility)
+* HTML (encode a basic structure, understanding about semantic and accessibility)
 * CSS ("coding" a layout, to get copy any website or simple component is a good indicator of your knowledge level)
 * Logic Programming(not come on tamper with depth in JavaScript before the learning logic!)
 * JavaScript (insert a script in one screen, using libs, create small things)
@@ -17,8 +17,8 @@ Requirements for Junior Front End Engineer:
 
 Depending the his zone/company where working you gonna need know both to handle like any edit image software (aka Photoshop). For know if really need, of a good search in vacancies local
 
-not run during the studies, a lot practice all the you learn until have courage in speak what know that!
+Not run during the studies, a lot practice all the you learn until have courage in speak what know that!
 
 Case you dominates already this things, you maybe already be a Mid Level Front End Engineer
 
-if you are seeking an study source take a [look here](../study-guides/README.md)
+If you are seeking an study source take a [look here](../study-guides/README.md)
