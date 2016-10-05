@@ -20,25 +20,25 @@ Sería interesante que usted pueda conseguir un [mentor](https://github.com/trai
 
 Cuando adquiera la suficiente experiencia, avanzará a **Semi-Senior**!
 
-## "Pleno"
+## "Semi-Senior"
 
-> Daqui a pouco você vira mestre e vai começar ensinar alguém! =O
+> ¡Dentro de poco usted se convertirá en maestro y comenzará a enseñar a alguien! =O
 
-Nesse nível você já consegue se virar muito bem sozinho(a).
+En este nivel usted puede manejarse muy bien solo(a).
 
-Possui experiência de 1/2 anos ou mais como Júnior (talvez menos dependendo de sua disposição e facilidade em aprender) e já desempenha bem suas atividades sem ajuda de alguém. Agora você também consegue ajudar outros devs *"Juniores"*!
+Posee la experiencia de medio año como Junior (tal vez menos dependiendo de su disposición y facilidad para aprender) y ya desempeña bien sus actividades sin ayuda de alguien. Ahora también consigue ayudar a otros devs *"Juniors"*.
 
-Você já é quase um mestre, então consegue estimar prazos para suas atividades e consegue entregar mais rapidamente coisas que antes você demorava para fazer. - Meus parabéns!
+Usted ya es casi un maestro, ya puede estimar plazos para sus actividades y puede entregar mas rapidamente cosas que antes tomaba mas tiempo hacer. ¡Felicitaciones!
 
-Você já deve ser capaz de dar palpites para melhorar algo em que trabalha, consegue inovar trazendo coisas legais para o trabalho e continua sedento por conhecimento, não deixando de lado a opinião dos outros.
+Ahora debería ser capaz de dar consejos para mejorar algo en lo que trabaja, puede innovar llevando cosas interesantes para su trabajo y continua sediento por conocimiento, sin dejar de lado las opiniones de los otros.
 
-Talvez você não seja capaz, ainda, de planejar algo grande ou construir algo do zero sozinho, mas não se coloque para baixo por isso. Procure melhorar e [continue a nadar](http://cinemacomrapadura.com.br/colunas/acme/288817/entenda-por-que-o-continue-a-nadar-e-o-hakuna-matata-dos-anos-2000/).
+Puede que no sea capaz todavía de planear algo grande o construir algo desde cero solo, pero no se deprima por eso. Busque siempre mejorar y [continue nadando](http://cinemacomrapadura.com.br/colunas/acme/288817/entenda-por-que-o-continue-a-nadar-e-o-hakuna-matata-dos-anos-2000/). (Nota: En portugués).
 
-Nesse nível, se você destruiu de estudar e praticar, você pode ser confundido por aí como um **Senior** (ou **Mestre**) e isso é muito legal! É sinal que você está aprendendo muito com o tempo e está ficando realmente bom.
+En este nivel, si usted rompe el estudio y la práctica, puede ser fácilmente confundido como **Senior** (o **Maestro**) y eso está muy bien! Es señal que usted está aprendiendo mucho y con el timepo se está haciendo realmente bueno.
 
-Só não deixe isso subir a cabeça!
+¡Pero no deje que eso se le suba a la cabeza!
 
-O nível **Senior** é o que vai te dar mais trabalho e responsabilidade e pode ser alcançado quando você tiver entre 4 a 6 anos de experiência. - Mas não foque no tempo, foque nos conhecimentos técnicos e outras capacidades que você deve possuir.
+El nivel **Senior** es lo que le va a dar mas trabajo y responsabilidad y puede ser alcanzado cuando usted tiene entre 4-6 años de experiencia. -Pero no se enfoque en el tiempo, enfoquese en los conocimientos técnicos y otras capacidades que debe poseer.
 
 ## "Sênior"
 
