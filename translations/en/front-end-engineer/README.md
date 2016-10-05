@@ -7,7 +7,7 @@ Now, that you know which are your responsibilities as Junior Developer, it's tim
 Requirements for Junior Front End Engineer:
 
 * HTML (code a basic structure, understand about semantic and accessibility)
-* CSS ("coding" a layout, copy any website or simple component is a good indicator of your knowledge level)
+* CSS ("code" a layout, copy any website or simple component is a good indicator of your knowledge level)
 * Logic Programming(not come on tamper with depth in JavaScript before the learning logic!)
 * JavaScript (insert a script in one screen, using libs, create small things)
 * Tooling (you gonna need the something like GruntJS, GulpJS, NPM Scripts)
