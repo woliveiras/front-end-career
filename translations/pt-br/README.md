@@ -6,17 +6,17 @@
 
 Você precisa saber que: **nada nessa vida é fácil**, mas que, se você se mantiver humilde e com a mente aberta, o caminho fica bem menos espinhoso.
 
-Você não vai virar o(a) Desenvolvedor(a) mais incrível do universo só lendo esse guia, mas pode ir bem longe se seguir os conselhos de pessoas boas e experiêntes (que podem ou não ter contribuido aqui).
+Você não vai virar o(a) Desenvolvedor(a) mais incrível do universo só lendo esse guia, mas pode ir bem longe se seguir os conselhos de pessoas boas e experientes (que podem ou não ter contribuído aqui).
 
-Ninguém é melhor do que você, as pessoas só possuem mais experiência, ainda mais por que o *“ser bom”* depende do ponto de vista.
+Ninguém é melhor do que você. As pessoas só possuem mais experiência, ainda mais porque o *"ser bom"* depende do ponto de vista.
 
-Você pode não desenvolver o ultimo algoritmo mais incrível, performático e escalável do dia para a noite, porém você consegue chegar lá se não desistir.
+Você pode não desenvolver o último algoritmo mais incrível, performático e escalável do dia para a noite, porém você consegue chegar lá se não desistir.
 
-Sua vida/saúde vale mais do que sua profissão. Procure se cuidar, descansar, descontrair. Procure viver fora do emprego.
+Sua vida/saúde vale mais do que sua profissão. Procure se cuidar, descansar, se descontrair. Procure viver fora do emprego.
 
-Mais algumas coisas, que iniciantes precisam saber, encontramos [nesse link](http://willianjusten.com.br/o-que-ninguem-diz-para-iniciantes/).
+Encontramos mais algumas coisas que iniciantes precisam saber [nesse link](http://willianjusten.com.br/o-que-ninguem-diz-para-iniciantes/).
 
-E algumas coisas que pessoas desmotivadas precisam saber, encontramos [nesse outro link](http://woliveiras.com.br/posts/Por-que-voce-desistiu-de-ser-Cientista/)
+E encontramos algumas coisas que pessoas desmotivadas precisam saber [nesse outro link](http://woliveiras.com.br/posts/Por-que-voce-desistiu-de-ser-Cientista/)
 
 Não fique na sua [zona de conforto](https://www.youtube.com/watch?v=hS8V9eODGQ0)!
 
@@ -25,7 +25,7 @@ Fora isso é bom que saiba, desde o começo:
 * [Clean Code](http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
 * [Inglês](http://www.igorapa.com/fui-aprender-ingles.html)
 * Seu código vai ser criticado e não há problema nisso. Aprenda com as críticas.
-* Você precisa gostar do que faz e uma maneira de identificar se isso acontece é analisando se você gosta do que as pessoas que trabalham com Front End falam sobre o que fazem.
+* Você precisa gostar do que faz, e uma maneira de identificar se isso acontece é analisando se você gosta do que as pessoas que trabalham com Front End falam sobre o que fazem.
 * O salto de Júnior para Pleno é mais técnico, onde a experiência e o estudo precisam levar a um acúmulo e domínio maior de mais e mais tecnologias, ferramentas, procedimentos.
 * O salto de Pleno para Sênior é mais de postura, onde o(a) "programador(a)" passa a ser encarado de fato como um(a) "profissional", alguém a quem sabemos que podemos passar uma responsabilidade e contar com o resultado.
 
@@ -37,13 +37,13 @@ Fora isso é bom que saiba, desde o começo:
 
 ## Escolhendo um lado
 
-É sempre difícil orientar Desenvolvedores(as) Front End sobre quais tecnologias deve estudar, afinal o mercado de trabalho para essa área é completamente louco!
+É sempre difícil orientar Desenvolvedores(as) Front End sobre quais tecnologias devem estudar, afinal o mercado de trabalho para essa área é completamente louco!
 
-Uma possível separação para as responsabilidades dos diferentes Front End's é: **Front End Engineer** e **Front End UI Developer**. Conforme foi discutido nesse [tópico](https://github.com/frontendbr/forum/issues/32) do forum [Front End BR](https://github.com/frontendbr/) e nessa [issue](https://github.com/woliveiras/front-end-career/issues/5) aqui no Carreira Front End.
+Uma possível separação para as responsabilidades dos diferentes Front End's é: **Front End Engineer** e **Front End UI Developer**, conforme foi discutido nesse [tópico](https://github.com/frontendbr/forum/issues/32) do forum [Front End BR](https://github.com/frontendbr/) e nessa [issue](https://github.com/woliveiras/front-end-career/issues/5) aqui no Carreira Front End.
 
 Mas, antes mesmo de escolher pra qual lado seguir (Programação ou Design), você precisa entender que você é um(a) **Desenvolvedor(a)**!
 
-Portanto aprenda, primeiro, o que você precisa para os diferentes níveis profissionais para se tornar um(a) bom/boa Desenvolvedor(a).
+Portanto aprenda primeiro o que você precisa para os diferentes níveis profissionais para se tornar um(a) bom/boa Desenvolvedor(a).
 
 * [Developer](./sources/developer.md)
 
@@ -114,17 +114,17 @@ Qualquer bom profissional precisa manter-se atualizado sobre sua área de atuaç
 
 > Lembre-se que não existem super-heróis aqui, são pessoas comuns mas que têm muito a acrescentar à sua carreira. Use os meios de comunicação com eles de forma respeitosa e amigável.
 
-**Disclaimer:** Antes de começar a seguir essa galera, leia [esse post](http://danielfilho.github.io/2014/08/20/queime-seus-idolos/). Essa leitura é importante para que você compreenda que essas pessoas são consideradas de forte expressão na nossa área, porém, elas podem errar e/ou ter opiniões divergentes do que é *correto* (assim como todos nós). Por isso, aprenda a pensar sozinho e usar o conhecimento dessas pessoas como **referência** para moldar o seu e chegar às suas próprias conclusões.
+**Disclaimer:** Antes de começar a seguir essa galera, leia [esse post](http://danielfilho.github.io/2014/08/20/queime-seus-idolos/). Essa leitura é importante para que você compreenda que essas pessoas são consideradas de forte expressão na nossa área, porém elas podem errar e/ou ter opiniões divergentes do que é *correto* (assim como todos nós). Por isso, aprenda a pensar sozinho e usar o conhecimento dessas pessoas como **referência** para moldar o seu e chegar às suas próprias conclusões.
 
 * Ouça [Podcasts](https://github.com/cerebrobr/comunidade/blob/master/casts.md)
 * Participe de **comunidades** e vá a **eventos** ([cerebrobr/meetups](https://github.com/cerebrobr/meetups),[Saia de casa](https://saiadecasa.github.io/), [danilovaz/eventos](https://github.com/danilovaz/eventos), [frontendbr/eventos](https://github.com/frontendbr/eventos)).
 
 ## Quero trabalhar no exterior
 
-Se você quer trabalhar no exterior, da uma olhada nessas dicas:
+Se você quer trabalhar no exterior, dê uma olhada nessas dicas:
 
 * [5 passos para começar sua carreira internacional](https://medium.com/@caiotozzini/5-passos-para-come%C3%A7ar-sua-carreira-internacional-3af9b906bec6#.pmy6tqo6j)
 
-## Perguntas frequêntes sobre Desenvolvimento Front End
+## Perguntas frequentes sobre Desenvolvimento Front End
 
-Com base nas questões repetidas que vi nos foruns, criei esse [repositório ("FFAQ", Frequently Front Asked Questions!)](https://github.com/woliveiras/FFAQ/) para centralizar as respostas e ficar mais fácil responder perguntas tão comuns.
+Com base nas questões repetidas que vi nos fóruns, criei esse [repositório ("FFAQ", Frequently Front Asked Questions!)](https://github.com/woliveiras/FFAQ/) para centralizar as respostas e ficar mais fácil responder perguntas tão comuns.
