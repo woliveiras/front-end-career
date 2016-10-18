@@ -10,7 +10,7 @@ You will not become the most incredible developer of the universe just reading t
 
 No one is better than you. People just have more experience, more so because the *"be good"* depends on the point of view.
 
-You can't build the most amazing code, performative and scalable from day to night, but you can do it if you don't give up.
+You can't build the most amazing code, performatic and scalable from day to night, but you can do it if you don't give up.
 
 Your life/health worth more than your profession. Try to take care, rest, relax. Try to live outside your job.
 
@@ -20,10 +20,9 @@ And we found somethings that unmotivated people must know  [this another link](h
 
 Don't stay in your [confort zone](https://www.youtube.com/watch?v=hS8V9eODGQ0)!
 
-although is good that you know, from beginning:
+Although is good that you know, from beginning:
 
 * [Clean Code](http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
-* [English](http://www.igorapa.com/fui-aprender-ingles.html)
 * Your code will be criticized and there is no problem with that. Learn from criticism.
 * You need to enjoy on what you do, and one way to find out if it happens is analyzing if you like of what people that works with Front End, talks and do.
 * The promotion from Jr to Entry Level is more technical, the experience and the study must lead to a buildup and greater control of more and more technology, tools, procedures.
