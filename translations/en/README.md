@@ -61,7 +61,7 @@ Then focus on a path:
 
 If you have questions about what your professional level or how does it works, it would be interesting to hear this episode on Dev Na Estrada: : [DNE 25 - Júnior, Pleno e Sênior](http://devnaestrada.com.br/2015/10/30/devcast-junior-pleno-senior.html).
 
-Mais alguns episódios que são interessantes para agregar mais conhecimento para sua carreira:
+A few more episodes that are interesting to add more knowledge to your career:
 
 * [DNE 48 - Salário do Desenvolvedor](http://devnaestrada.com.br/2016/04/08/devnaestrada-salario-desenvolvedor.html)
 * [DNE 36 - Entrevista de emprego](http://devnaestrada.com.br/2016/01/15/devnaestrada-entrevista-de-emprego.html)
