@@ -39,7 +39,7 @@ Fora isso é bom que saiba, desde o começo:
 
 É sempre difícil orientar Desenvolvedores(as) Front End sobre quais tecnologias devem estudar, afinal o mercado de trabalho para essa área é completamente louco!
 
-Uma possível separação para as responsabilidades dos diferentes Front End's é: **Front End Engineer** e **Front End UI Developer**, conforme foi discutido nesse [tópico](https://github.com/frontendbr/forum/issues/32) do forum [Front End BR](https://github.com/frontendbr/) e nessa [issue](https://github.com/woliveiras/front-end-career/issues/5) aqui no Carreira Front End.
+Uma possível separação para as responsabilidades dos diferentes Front End's é: **Front End Engineer** e **Front End UI Developer**, conforme foi discutido nesse [tópico](https://github.com/frontendbr/forum/issues/32) do forum [Front-End BR](https://github.com/frontendbr/) e nessa [issue](https://github.com/woliveiras/front-end-career/issues/5) aqui no Carreira Front End.
 
 Mas, antes mesmo de escolher pra qual lado seguir (Programação ou Design), você precisa entender que você é um(a) **Desenvolvedor(a)**!
 
