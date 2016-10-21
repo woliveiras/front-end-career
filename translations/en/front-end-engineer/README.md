@@ -21,9 +21,9 @@ Not run during the studies, a lot practice all the you learn until have courage 
 
 Case you dominates already this things, you maybe already be a Mid Level Front End Engineer
 
-## Front End Engineer
+## Mid-level Front End Engineer
 
-At this level you've mastered the technical requirements that a **Junior** knows that a [Front End Engineer](/translations/en/sources/developer.md#pleno) needs and works with it for a while.
+At this level you've mastered the technical requirements that a **Junior** knows that a [Mid-level Front End Engineer](/translations/en/sources/developer.md#pleno) needs and works with it for a while.
 Now you need things like:
 
 * Scalability
