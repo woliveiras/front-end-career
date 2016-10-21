@@ -21,4 +21,25 @@ Not run during the studies, a lot practice all the you learn until have courage 
 
 Case you dominates already this things, you maybe already be a Mid Level Front End Engineer
 
+## Mid-level Front End Engineer
+
+At this level you've mastered the technical requirements that a **Junior** knows that a [Mid-level Front End Engineer](/translations/en/sources/developer.md#pleno) needs and works with it for a while.
+Now you need things like:
+
+* Scalability
+* Maintainability
+* Design Patterns applied to JavaScript and CSS
+* Understand/Work with Frameworks CSS e JS
+* CSS Preprocessors (please!)
+* Template Engines HTML (see [here](https://developer.mozilla.org/en-US/docs/JavaScript_templates), [here](http://www.sitepoint.com/overview-javascript-templating-engines/) and [here](https://garann.github.io/template-chooser/))
+* Understand Programming Paradigms (OOP, functional, etc)
+* Serve multiple browsers and their differences
+* Create a development environment or Boilerplate to start their projects easily
+* Master your working tools (Editor, S.O., etc)
+* Performance (Both the [JavaScript](https://www.smashingmagazine.com/2012/11/writing-fast-memory-efficient-javascript/), as the CSS, [sim do CSS](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Writing_efficient_CSS))
+* SEO (HTML structure, solve the list of PageSpeed, Schema.org)
+
+Case you dominates already this things, you maybe already be a **Sênior**.
+
+
 If you are seeking an study source take a [look here](../study-guides/README.md)
