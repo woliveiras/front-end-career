@@ -34,7 +34,7 @@ Você já deve ser capaz de dar palpites para melhorar algo em que trabalha, con
 
 Talvez você ainda não seja capaz de planejar algo grande ou construir algo do zero sozinho, mas não se coloque para baixo por isso. Procure melhorar e [continue a nadar](http://cinemacomrapadura.com.br/colunas/acme/288817/entenda-por-que-o-continue-a-nadar-e-o-hakuna-matata-dos-anos-2000/).
 
-Nesse nível, se você destruiu de estudar e praticar, você pode ser confundido por aí como um **Sênior** (ou **Mestre**) e isso é muito legal! É sinal que você está aprendendo muito com o tempo e está ficando realmente bom.
+Nesse nível, se você não desistiu de estudar e praticar, você pode ser confundido por aí como um **Sênior** (ou **Mestre**) e isso é muito legal! É sinal que você está aprendendo muito com o tempo e está ficando realmente bom.
 
 Só não deixe isso subir a cabeça!
 
