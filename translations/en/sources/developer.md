@@ -38,3 +38,29 @@ In this level, if you doesn't give up of learning and practicing, you may be con
 Just don't let this go to your head!
 
 The **Senior** level is the one that will demands more work and responsability and can be reached when you have between 4 and 6 years od experience. But don't focus in the time, focus on technical knowledge and others skills that you must have.
+
+## "Senior"
+
+> Congratulions, you won many fights, earned many titles and now can be considered a Master
+
+In this level you have much experice with the programming languages that you usem, with the work tools, development enviroment, Operating System, etc.
+
+Now you are capable of create something from scratch and scale it, by your own!
+
+You have a good sense of deadlines and can specify that very well. You are also capable of coordinate a project, organize a team, delegate taks, evaluate the tasks completed by other members and answer precisely the client, manager or something like that.
+
+You, now, are able to train other professionals. You can direct and help them to accomplish their goals.
+
+Know the Job Market and can hire good professionals or refer them.
+
+You can take decisions more and more importants in a project.
+
+Be a Senior is connected not just the time that you have been working, but is the acquired knowledge in that time and to your professional attitudes.
+
+Now that you reached this level it's time to share your knowledge to become a real **Developer Master**!
+
+`----------------------------------------------------------------`
+
+If you are looking for study resources, take a [look at here](/translations/en/study-guides).
+
+*[Go back to "choose your side"](/translations/en/README.md#choose-your-side)*
