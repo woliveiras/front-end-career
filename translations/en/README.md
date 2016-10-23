@@ -86,3 +86,9 @@ A few more episodes that are interesting to add more knowledge to your career:
 Keep updated in Front End technologies - [front end rescue](https://uptodate.frontendrescue.org/)
 
 Follow [developers who make it happen](/great-developers.md)!
+
+## I wanna work abroad
+
+If you want to work abroad, give a look on these tips:
+
+* [5 passos para começar sua carreira internacional](https://medium.com/@caiotozzini/5-passos-para-come%C3%A7ar-sua-carreira-internacional-3af9b906bec6#.pmy6tqo6j)
