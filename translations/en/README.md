@@ -73,6 +73,24 @@ A few more episodes that are interesting to add more knowledge to your career:
 * [DNE 02 - Trabalho Remoto](http://devnaestrada.com.br/2015/05/29/devcast-trabalho-remoto.html)
 * [DNE 01 - Frontend X Backend](http://devnaestrada.com.br/2015/05/22/devcast-frontend-backend.html)
 
+**Types of Hiring Agreement**
+
+* [DNE 19 - Regime de Contratação](http://devnaestrada.com.br/2015/09/18/devcast-regime-contratacao.html)
+* [Tipos de contratação, Infomoney](http://www.infomoney.com.br/minhas-financas/noticia/606833/tipos-contrato-trabalho)
+
+**About PJ**
+
+* [CLT ou PJ, entenda como funcionam, Trampos.co](http://tutano.trampos.co/4587-clt-ou-pj-entenda-como-funcionam/)
+* [8 pontos para considerar bem antes de topar ser PJ, Exame](http://exame.abril.com.br/carreira/noticias/proposta-indecorosa)
+* [Saiba como não cair em armadilhas ao ser contratado como PJ, Exame](http://exame.abril.com.br/carreira/noticias/saiba-como-nao-cair-em-armadilhas-ao-ser-contratado-como-pj)
+* [Dicas para os PJ's](http://www.contratopj.com.br/)
+
+**About CLT/Clt-Flex and more**
+
+* [Tópico sobre CLT, CLT-Flex, Cooperado e um pouco mais no GUJ](http://www.guj.com.br/t/tipos-de-contratacao-qual-a-diferenca/49184/3), dica do [@thebergamo](https://github.com/thebergamo)
+* [Você já ouviu falar em contratação CLT flex? Veja direitos, Exame](http://exame.abril.com.br/carreira/noticias/voce-ja-ouviu-falar-em-contratacao-clt-flex-veja-direitos)
+* [Contratação criativa, a CLT Flex e a pejotização nas empresas, Catho](http://www.catho.com.br/carreira-sucesso/gestao-rh/contratacao-criativa-a-clt-flex-e-a-pejotizacao-nas-empresas)
+
 ## Job web sites for Front End Developers
 
 * [List](./job-sites.md)
