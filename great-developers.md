@@ -111,6 +111,15 @@
 - :newspaper: [Blog](http://www.maujor.com/)
 - :bird: [Twitter](https://twitter.com/maujor)
 
+### Matheus Lima
+- :newspaper: [Blog](https://matheuslima.com/)
+- :octocat: [Github](https://github.com/matheusml)
+- :bird: [Twitter](https://twitter.com/matheusml)
+
+### Matheus Marsiglio
+- :octocat: [Github](https://github.com/matmarsiglio)
+- :bird: [Twitter](https://twitter.com/matmarsiglio)
+
 ### Raphael Fabeni
 - :newspaper: [Blog](http://www.raphaelfabeni.com.br/blog/)
 - :octocat: [Github](https://github.com/raphaelfabeni)
@@ -132,7 +141,7 @@
 - :newspaper: [Blog](https://medium.com/@shankarcabus)
 - :octocat: [Github](https://github.com/shankarcabus)
 - :bird: [Twitter](https://twitter.com/ShankarCabus)
- 
+
 ### Suissa
 - :newspaper: [Blog](http://nomadev.com.br/)
 - :octocat: [Github](https://github.com/suissa)
