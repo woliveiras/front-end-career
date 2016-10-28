@@ -93,7 +93,7 @@ A few more episodes that are interesting to add more knowledge to your career:
 
 ## Job web sites for Front End Developers
 
-* [List](./job-sites.md)
+On this link you will find a [list](./job-sites.md) of some sites with vacancies in the area.
 
 ## Links to study about Front End
 
