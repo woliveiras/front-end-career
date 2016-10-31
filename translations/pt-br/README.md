@@ -117,8 +117,8 @@ Qualquer bom profissional precisa manter-se atualizado sobre sua área de atuaç
 **Disclaimer:** Antes de começar a seguir essa galera, leia [esse post](http://danielfilho.github.io/2014/08/20/queime-seus-idolos/). Essa leitura é importante para que você compreenda que essas pessoas são consideradas de forte expressão na nossa área, porém elas podem errar e/ou ter opiniões divergentes do que é *correto* (assim como todos nós). Por isso, aprenda a pensar sozinho e usar o conhecimento dessas pessoas como **referência** para moldar o seu e chegar às suas próprias conclusões.
 
 * Ouça [Podcasts](https://github.com/cerebrobr/comunidade/blob/master/casts.md)
-* Participe de [comunidades](https://github.com/joselitojunior1/slack-list-brazil)
-* Vá a **eventos** ([cerebrobr/meetups](https://github.com/cerebrobr/meetups),[Saia de casa](https://saiadecasa.github.io/), [danilovaz/eventos](https://github.com/danilovaz/eventos), [frontendbr/eventos](https://github.com/frontendbr/eventos)).
+* Participe de **comunidades** ([joselitojunior1/slack-list-brazil](https://github.com/joselitojunior1/slack-list-brazil))
+* Vá a **eventos** ([cerebrobr/meetups](https://github.com/cerebrobr/meetups), [Saia de casa](https://saiadecasa.github.io/), [danilovaz/eventos](https://github.com/danilovaz/eventos), [frontendbr/eventos](https://github.com/frontendbr/eventos)).
 
 ## Quero trabalhar no exterior
 
