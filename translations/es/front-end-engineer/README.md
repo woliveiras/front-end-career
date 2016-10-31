@@ -3,7 +3,7 @@
 
 ## Ingeniero Front-end Junior
 
-Ahora que ya sabe cuáles son sus responsabilidades como [Desarrollador Junior](/translations/pt-br/sources/developer.md#júnior), es el momento de centrarse en los requisitos técnicos.
+Ahora que ya sabe cuáles son sus responsabilidades como [Desarrollador Junior](/translations/es/developer.md#junior), es el momento de centrarse en los requisitos técnicos.
 
 Requisitos para Ingeniero Front-end Junior:
 
