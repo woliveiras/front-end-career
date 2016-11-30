@@ -6,7 +6,7 @@
 - [trampos.co](http://trampos.co/)
 - [Gogojob](http://www.gogojob.com.br/)
 - [Remote Jobs](https://github.com/lerrua/remote-jobs-brazil)
-- [Indeed](www.indeed.com.br/)
+- [Indeed](https://http://www.indeed.com.br)
 - [InfoJobs](http://www.infojobs.com.br/)
 - [Curriculum.com.br](http://www.curriculum.com.br)
 - [Startup Jobs](https://angel.co/jobs)
