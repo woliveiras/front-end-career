@@ -28,10 +28,6 @@ Although is good that you know, from beginning:
 * The promotion from Jr to Entry Level is more technical, the experience and the study must lead to a buildup and greater control of more and more technology, tools, procedures.
 * The promotion from Entry Level to Senior it is more posture, where the Programmer shall be regarded in fact as a professional, someone we know that we can spend a responsibility and rely on the result.
 
-<p align="center">
-  <img src="/img/voce_vai_se_ferrar_muito.png" alt="You will get screwed, and a lot!">
-</p>
-
 [*References about the promotions*](https://github.com/Codeminer42/CarreiraRuby).
 
 ## Choose your side
