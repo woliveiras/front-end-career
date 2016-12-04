@@ -28,7 +28,7 @@ Although is good that you know, from beginning:
 
 It is always difficult to guide Front End developers on which technologies should study, becouse the job market is completely crazy! 
 
-A possible separation for the responsibilities of the different Front End's types are: **Front End Engineer** and **Front End UI Developer**, as discussed in this [topic](https://github.com/frontendbr/forum/issues/32)(*pt-br*) from forum [Front End BR](https://github.com/frontendbr/)(*pt-br*) and this [issue](https://github.com/woliveiras/front-end-career/issues/5)(*pt-br*) here on Carreira Front End.
+A possible separation for the responsibilities of the different Front End's types are: **Front End Engineer** and **Front End UI Developer**, as discussed in this [topic](https://github.com/frontendbr/forum/issues/32)(*pt-br*) from forum [Front End BR](https://github.com/frontendbr/)(*pt-br*) and this [issue](https://github.com/woliveiras/front-end-career/issues/5)(*pt-br*) here on Front End Career.
 
 But before choosing which way to follow (Computation or Design), you need to understand that you are a **Developer**!
 
