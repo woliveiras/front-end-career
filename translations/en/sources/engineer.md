@@ -36,7 +36,7 @@ Now you need things like:
 * Serve multiple browsers and their differences
 * Create a development environment or Boilerplate to start their projects easily
 * Master your working tools (Editor, S.O., etc)
-* Performance (Both the [JavaScript](https://www.smashingmagazine.com/2012/11/writing-fast-memory-efficient-javascript/), as the CSS, [sim do CSS](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Writing_efficient_CSS))
+* Performance (Both the [JavaScript](https://www.smashingmagazine.com/2012/11/writing-fast-memory-efficient-javascript/), as the CSS, [yes do CSS](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Writing_efficient_CSS))
 * SEO (HTML structure, solve the list of PageSpeed, Schema.org)
 
 Case you dominates already this things, you maybe already be a **Senior**.
