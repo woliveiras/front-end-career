@@ -5,7 +5,7 @@
 
 A career guide to Front End Developers
 
-# Languages
+## Languages
 
 Look the guide in your language. ;D
 
@@ -16,3 +16,7 @@ Look the guide in your language. ;D
 [*Reference*](/REFERENCE.md)
 
 Made by Front End community for all peoples.
+
+## Contribute
+
+Look the [contribute guide](/CONTRIBUTE.md) and go send pull requests!
