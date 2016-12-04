@@ -55,38 +55,6 @@ Then focus on a path:
 
 [On this link](http://www.frontendhandbook.com/practice/types-of-front-end-dev.html) we have more Front End profiles, so you can see where you're getting into! - It's crazy.
 
-If you have questions about what your professional level or how does it works, it would be interesting to hear this episode on Dev Na Estrada: : [DNE 25 - Júnior, Pleno e Sênior](http://devnaestrada.com.br/2015/10/30/devcast-junior-pleno-senior.html).
-
-A few more episodes that are interesting to add more knowledge to your career:
-
-* [DNE 48 - Salário do Desenvolvedor](http://devnaestrada.com.br/2016/04/08/devnaestrada-salario-desenvolvedor.html)
-* [DNE 36 - Entrevista de emprego](http://devnaestrada.com.br/2016/01/15/devnaestrada-entrevista-de-emprego.html)
-* [DNE 35 - Inglês pra quê?](http://devnaestrada.com.br/2016/01/08/devnaestrada-ingles-pra-que.html)
-* [DNE 28 - Sou Sênior e agora?](http://devnaestrada.com.br/2015/11/20/devnaestrada-28-sou-senior-e-agora.html)
-* [DNE 14 - Carreira Front-end](http://devnaestrada.com.br/2015/08/21/devcast-carreira-frontend.html)
-* [DNE 10 - Job Sonho X Realidade](http://devnaestrada.com.br/2015/07/24/devcast-job-sonho-realidade.html)
-* [DNE 08 - Job Pastel](http://devnaestrada.com.br/2015/07/10/devcast-job-pastel.html)
-* [DNE 02 - Trabalho Remoto](http://devnaestrada.com.br/2015/05/29/devcast-trabalho-remoto.html)
-* [DNE 01 - Frontend X Backend](http://devnaestrada.com.br/2015/05/22/devcast-frontend-backend.html)
-
-**Types of Hiring Agreement**
-
-* [DNE 19 - Regime de Contratação](http://devnaestrada.com.br/2015/09/18/devcast-regime-contratacao.html)
-* [Tipos de contratação, Infomoney](http://www.infomoney.com.br/minhas-financas/noticia/606833/tipos-contrato-trabalho)
-
-**About PJ**
-
-* [CLT ou PJ, entenda como funcionam, Trampos.co](http://tutano.trampos.co/4587-clt-ou-pj-entenda-como-funcionam/)
-* [8 pontos para considerar bem antes de topar ser PJ, Exame](http://exame.abril.com.br/carreira/noticias/proposta-indecorosa)
-* [Saiba como não cair em armadilhas ao ser contratado como PJ, Exame](http://exame.abril.com.br/carreira/noticias/saiba-como-nao-cair-em-armadilhas-ao-ser-contratado-como-pj)
-* [Dicas para os PJ's](http://www.contratopj.com.br/)
-
-**About CLT/Clt-Flex and more**
-
-* [Tópico sobre CLT, CLT-Flex, Cooperado e um pouco mais no GUJ](http://www.guj.com.br/t/tipos-de-contratacao-qual-a-diferenca/49184/3), dica do [@thebergamo](https://github.com/thebergamo)
-* [Você já ouviu falar em contratação CLT flex? Veja direitos, Exame](http://exame.abril.com.br/carreira/noticias/voce-ja-ouviu-falar-em-contratacao-clt-flex-veja-direitos)
-* [Contratação criativa, a CLT Flex e a pejotização nas empresas, Catho](http://www.catho.com.br/carreira-sucesso/gestao-rh/contratacao-criativa-a-clt-flex-e-a-pejotizacao-nas-empresas)
-
 ## Job web sites for Front End Developers
 
 On this link you will find a [list](./job-sites.md) of some sites with vacancies in the area.
@@ -100,9 +68,3 @@ On this link you will find a [list](./job-sites.md) of some sites with vacancies
 Keep updated in Front End technologies - [front end rescue](https://uptodate.frontendrescue.org/)
 
 Follow [developers who make it happen](/great-developers.md)!
-
-## I wanna work abroad
-
-If you want to work abroad, give a look on these tips:
-
-* [5 passos para começar sua carreira internacional](https://medium.com/@caiotozzini/5-passos-para-come%C3%A7ar-sua-carreira-internacional-3af9b906bec6#.pmy6tqo6j)
