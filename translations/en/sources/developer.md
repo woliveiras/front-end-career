@@ -31,7 +31,7 @@ You are almost a master, so you are able to estimate deadlines for yours activit
 
 You should be capable to give your opinion to improve something that you work, can innovate bringing cool stuff to the work and continues thirsty for knowledge, don't putting others opinios.
 
-Maybe your can't plan something big or build something from scratch by your own, but don't be sad about it. Look for improvement and [continue to swim](http://cinemacomrapadura.com.br/colunas/acme/288817/entenda-por-que-o-continue-a-nadar-e-o-hakuna-matata-dos-anos-2000/).
+Maybe your can't plan something big or build something from scratch by your own, but don't be sad about it. Look for improvement and just keep swimming.
 
 In this level, if you doesn't give up of learning and practicing, you may be confused with a **Senior** (or **Master**) and that's awesome! It's sign that you are learning a lot with time and is getting realy good.
 
