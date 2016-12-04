@@ -1,7 +1,7 @@
 <p align="center">
   <img src="./img/frontend_development.png" alt="Front End Development" width="350px">
 </p>
-# Front End Career [![Join the chat at https://gitter.im/woliveiras/front-end-career](https://badges.gitter.im/woliveiras/front-end-career.svg)](https://gitter.im/woliveiras/front-end-career?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+# Front End Career
 
 A career guide to Front End Developers
 
