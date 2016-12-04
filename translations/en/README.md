@@ -14,12 +14,6 @@ You can't build the most amazing code, performatic and scalable from day to nigh
 
 Your life/health worth more than your profession. Try to take care, rest, relax. Try to live outside your job.
 
-We found somethings that the beginners need to know [this link](http://willianjusten.com.br/o-que-ninguem-diz-para-iniciantes/).
-
-And we found somethings that unmotivated people must know  [this another link](http://woliveiras.com.br/posts/Por-que-voce-desistiu-de-ser-Cientista/)
-
-Don't stay in your [confort zone](https://www.youtube.com/watch?v=hS8V9eODGQ0)!
-
 Although is good that you know, from beginning:
 
 * [Clean Code](http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
@@ -34,9 +28,9 @@ Although is good that you know, from beginning:
 
 It is always difficult to guide Front End developers on which technologies should study, becouse the job market is completely crazy! 
 
-A possible separation for the responsibilities of the different Front End's types are: **Front End Engineer** and **Front End UI Developer**, as discussed in this [topic](https://github.com/frontendbr/forum/issues/32) from forum [Front End BR](https://github.com/frontendbr/) and this [issue](https://github.com/woliveiras/front-end-career/issues/5) here on Carreira Front End.
+A possible separation for the responsibilities of the different Front End's types are: **Front End Engineer** and **Front End UI Developer**, as discussed in this [topic](https://github.com/frontendbr/forum/issues/32)(*pt-br*) from forum [Front End BR](https://github.com/frontendbr/)(*pt-br*) and this [issue](https://github.com/woliveiras/front-end-career/issues/5)(*pt-br*) here on Carreira Front End.
 
-But before choosing which way to follow (Programming or Design), you need to understand that you are a **Developer**!
+But before choosing which way to follow (Computation or Design), you need to understand that you are a **Developer**!
 
 So first learn what you need for the different professional levels to become a good Developer.
 
