@@ -5,7 +5,7 @@
 
 You have the right to make mistakes and the duty to stay thirsty for knowledge!
 
-In this level you don't master any programming languages, tools, development envirnoments, perhaps neither the operating system that you are working with. Easy... Focus on learning, take advices from those who have been longer on the area and try to absorb this knowledge.
+In this level you don't master any programming languages, tools, development environments, perhaps neither the operating system that you are working with. Easy... Focus on learning, take advices from those who have been longer on the area and try to absorb this knowledge.
 
 You will make mistakes, lots of mistakes if you are proactive, but that's not bad. Unless you make the same mistake every day. You can make these mistakes because you are trying... You are learning.
 
