@@ -125,6 +125,7 @@ Qualquer bom profissional precisa manter-se atualizado sobre sua área de atuaç
 Se você quer trabalhar no exterior, dê uma olhada nessas dicas:
 
 * [5 passos para começar sua carreira internacional](https://medium.com/@caiotozzini/5-passos-para-come%C3%A7ar-sua-carreira-internacional-3af9b906bec6#.pmy6tqo6j)
+* [Trabalhar no exterior](https://github.com/frontendbr/forum/issues/56)
 
 ## Perguntas frequentes sobre Desenvolvimento Front End
 
