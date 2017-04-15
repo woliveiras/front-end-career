@@ -59,6 +59,16 @@ On this link you will find a [list](./job-sites.md) of some sites with vacancies
 
 ## Keeping updated
 
-Keep updated in Front End technologies - [front end rescue](https://uptodate.frontendrescue.org/)
+Any good professional needs to keep updated on his area of work and on the job market, therefore I advise you to take a look at these links:
 
-Follow [developers who make it happen](/great-developers.md)!
+* Keep updated in Front End technologies - [front end rescue](https://uptodate.frontendrescue.org/pt/)
+
+* Follow [developers who make it happen](/great-developers.md)!
+
+> Remember there are not superheroes here, they are just ordinary people but they have a lot to add to your career. Use the media with them in a respectful and friendly way.
+
+**Disclaimer:** Before start to follow these people, read [this post](http://danielfilho.github.io/2014/08/20/queime-seus-idolos/) (*pt-br*). This reading is important for you understand that these people are considered of strong expression in our area, however they can make mistakes and/or have divergent opinions of what is *correct* (just like all of us). So learn to think by yourself and the knowledge od these people as **reference** to shape yours and to reach your own conclusions.
+
+* Listen [Podcasts](http://ogilvieira.com.br/awesome-podcasts-br/) (*pt-br*)
+* Participate in communities ([joselitojunior1/slack-list-brazil](https://github.com/joselitojunior1/slack-list-brazil)) (*pt-br*)
+* Go to **events** ([cerebrobr/meetups](https://github.com/cerebrobr/meetups), [Saia de casa](https://saiadecasa.github.io/), [danilovaz/eventos](https://github.com/danilovaz/eventos), [frontendbr/eventos](https://github.com/frontendbr/eventos)) (*pt-br*).
