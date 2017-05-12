@@ -1,6 +1,7 @@
 <p align="center">
   <img src="./img/frontend_development.png" alt="Front End Development" width="350px">
 </p>
+
 # Front End Career
 
 A career guide to Front End Developers
