@@ -12,11 +12,11 @@ Ninguém é melhor do que você. As pessoas só possuem mais experiência, ainda
 
 Você pode não desenvolver o último algoritmo mais incrível, performático e escalável do dia para a noite, porém você consegue chegar lá se não desistir.
 
-Sua vida/saúde vale mais do que sua profissão. Procure se cuidar, descansar, se descontrair. Procure viver fora do emprego.
+Sua vida/saúde vale mais do que sua profissão. Procure cuidar-se, descansar, descontrair-se. Procure viver fora do emprego.
 
-Encontramos mais algumas coisas que iniciantes precisam saber [nesse link](http://willianjusten.com.br/o-que-ninguem-diz-para-iniciantes/).
+Encontramos mais algumas coisas que iniciantes precisam saber no "[O que ninguém diz para iniciantes](http://willianjusten.com.br/o-que-ninguem-diz-para-iniciantes/)".
 
-E encontramos algumas coisas que pessoas desmotivadas precisam saber [nesse outro link](http://woliveiras.com.br/posts/Por-que-voce-desistiu-de-ser-Cientista/)
+E encontramos algumas coisas que pessoas desmotivadas precisam saber no "[Por que você desistiu de ser cientista?](http://woliveiras.com.br/posts/Por-que-voce-desistiu-de-ser-Cientista/)".
 
 Não fique na sua [zona de conforto](https://www.youtube.com/watch?v=hS8V9eODGQ0)!
 
@@ -39,7 +39,7 @@ Fora isso é bom que saiba, desde o começo:
 
 É sempre difícil orientar Desenvolvedores(as) Front End sobre quais tecnologias devem estudar, afinal o mercado de trabalho para essa área é completamente louco!
 
-Uma possível separação para as responsabilidades dos diferentes Front End's é: **Front End Engineer** e **Front End UI Developer**, conforme foi discutido nesse [tópico](https://github.com/frontendbr/forum/issues/32) do forum [Front-End BR](https://github.com/frontendbr/) e nessa [issue](https://github.com/woliveiras/front-end-career/issues/5) aqui no Carreira Front End.
+Uma possível separação para as responsabilidades dos diferentes Front End's é: **Front End Engineer** e **Front End UI Developer**, conforme foi discutido no tópico "[Especializações na carreira Front-End](https://github.com/frontendbr/forum/issues/32)" do fórum [Front-End BR](https://github.com/frontendbr/) e na issue "[Escolha um lado](https://github.com/woliveiras/front-end-career/issues/5)" aqui no **Carreira Front End**.
 
 Mas, antes mesmo de escolher pra qual lado seguir (Programação ou Design), você precisa entender que você é um(a) **Desenvolvedor(a)**!
 
@@ -58,9 +58,9 @@ Depois foque em um caminho:
 * [Front End Engineer](./sources/engineer.md)
 * [Front End UI Developer](./sources/ui-developer.md)
 
-[Nesse link](http://www.frontendhandbook.com/practice/types-of-front-end-dev.html) temos mais perfis de Front End, diferentes, pra você ver onde está se metendo! - É uma loucura.
+Na página "[Types of Front End Dev](http://www.frontendhandbook.com/practice/types-of-front-end-dev.html)" do Front End Handbook temos mais perfis de Front End, diferentes, pra você ver onde está se metendo! - É uma loucura.
 
-Caso você possua dúvidas sobre qual seu nível profissional ou como funciona isso, seria interessante ouvir esse episódio do Dev na Estrada: [DNE 25 - Júnior, Pleno e Sênior](http://devnaestrada.com.br/2015/10/30/devcast-junior-pleno-senior.html).
+Caso você possua dúvidas sobre qual seu nível profissional ou como funciona isso, seria interessante ouvir o episódio 25 [Júnior, Pleno e Sênior](http://devnaestrada.com.br/2015/10/30/devcast-junior-pleno-senior.html) do Dev na Estrada.
 
 Mais alguns episódios que são interessantes para agregar mais conhecimento para sua carreira:
 
@@ -98,11 +98,11 @@ Alguns recursos para conhecer os tipos de contratação:
 
 ## Sites com Vagas para Front End's
 
-Nesse [link](./job-sites.md) você encontra a lista de alguns sites com vagas na área.
+Na página "[Job Sites](./job-sites.md)", aqui do **Front End Carrer**, você encontra a lista de alguns sites com vagas na área.
 
 ## Links para estudar sobre Front End
 
-Caso você esteja procurando conteúdo para aprender ou aprofundar na área de Front End, da uma olhada nesse [link](./study-guides.md).
+Caso você esteja procurando conteúdo para aprender ou aprofundar na área de Front End, da uma olhada na página "[Study Guides](./study-guides.md)", também aqui do **Front End Carrer".
 
 ## Mantendo-se atualizado
 
