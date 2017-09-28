@@ -16,7 +16,7 @@ Look the guide in your language. ;D
 
 [*Reference*](/REFERENCE.md)
 
-Made by Front End community for all peoples.
+Made by Front End community for all people.
 
 ## Contribute
 
