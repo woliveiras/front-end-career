@@ -1,4 +1,6 @@
-# Carreira Front End
+---
+layout: default
+---
 
 > Um guia de carreira para o(a) Desenvolvedor(a) Front End
 
@@ -22,12 +24,17 @@ Não fique na sua [zona de conforto](https://www.youtube.com/watch?v=hS8V9eODGQ0
 
 Fora isso é bom que saiba, desde o começo:
 
-* [Clean Code](http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
+* [Clean Code](https://amzn.to/2QfW5lF)
 * [Inglês](http://www.igorapa.com/fui-aprender-ingles.html)
 * Seu código vai ser criticado e não há problema nisso. Aprenda com as críticas.
 * Você precisa gostar do que faz, e uma maneira de identificar se isso acontece é analisando se você gosta do que as pessoas que trabalham com Front End falam sobre o que fazem.
 * O salto de Júnior para Pleno é mais técnico, onde a experiência e o estudo precisam levar a um acúmulo e domínio maior de mais e mais tecnologias, ferramentas, procedimentos.
 * O salto de Pleno para Sênior é mais de postura, onde o(a) "programador(a)" passa a ser encarado de fato como um(a) "profissional", alguém a quem sabemos que podemos passar uma responsabilidade e contar com o resultado.
+* alguns livros que você poderá ler para se tornar fera em programação: [Livros que todo(a) programador(a) iniciante deveria ler](https://woliveiras.com.br/posts/livros-que-todo-programador-iniciante-deveria-ler/)
+* [Livros que todo desenvolvedor de software deveria ler](https://woliveiras.com.br/posts/Livros-que-todo-desenvolvedor-de-software-deveria-ler/)
+* [O Kindle é um life hack para lermos mais](https://woliveiras.com.br/posts/kindle-um-life-hack-para-lermos-mais/)!
+* [Como ser o programador junior que toda empresa quer contratar](https://woliveiras.com.br/posts/como-ser-o-programador-junior-que-toda-empresa-quer-contratar/)
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/woliveiras/front-end-career/master/img/voce_vai_se_ferrar_muito.png" alt="Você vai se ferrar, e muito!">
@@ -45,18 +52,18 @@ Mas, antes mesmo de escolher pra qual lado seguir (Programação ou Design), voc
 
 Portanto aprenda primeiro o que você precisa para os diferentes níveis profissionais para se tornar um(a) bom/boa Desenvolvedor(a).
 
-* [Developer](./sources/developer.md)
+* [Developer](./sources/developer)
 
 <p align="center">
-  <a href="./developer/README.md" title="developer">
+  <a href="./developer/README" title="developer">
     <img src="/img/developers.jpeg" alt="Developers, developers, developers, developers!" width="50%">
   </a>
 </p>
 
 Depois foque em um caminho:
 
-* [Front End Engineer](./sources/engineer.md)
-* [Front End UI Developer](./sources/ui-developer.md)
+* [Front End Engineer](./sources/engineer)
+* [Front End UI Developer](./sources/ui-developer)
 
 Na página "[Types of Front End Dev](http://www.frontendhandbook.com/practice/types-of-front-end-dev.html)" do Front End Handbook temos mais perfis de Front End, diferentes, pra você ver onde está se metendo! - É uma loucura.
 
@@ -98,11 +105,11 @@ Alguns recursos para conhecer os tipos de contratação:
 
 ## Sites com Vagas para Front End's
 
-Na página "[Job Sites](./job-sites.md)", aqui do **Front End Carrer**, você encontra a lista de alguns sites com vagas na área.
+Na página "[Job Sites](./job-sites)", aqui do **Front End Carrer**, você encontra a lista de alguns sites com vagas na área.
 
 ## Links para estudar sobre Front End
 
-Caso você esteja procurando conteúdo para aprender ou aprofundar na área de Front End, da uma olhada na página "[Study Guides](./study-guides.md)", também aqui do **Front End Carrer".
+Caso você esteja procurando conteúdo para aprender ou aprofundar na área de Front End, da uma olhada na página "[Study Guides](./study-guides)", também aqui do **Front End Carrer".
 
 ## Mantendo-se atualizado
 
@@ -110,7 +117,7 @@ Qualquer bom profissional precisa manter-se atualizado sobre sua área de atuaç
 
 * Mantenha-se atualizado nas tecnologias Front End - [front end rescue](https://uptodate.frontendrescue.org/pt/)
 
-* Siga os [brasileiros que fazem acontecer](/great-developers.md#brazilian-peoples) na área de Front End!
+* Siga os [brasileiros que fazem acontecer](/great-developers#brazilian-peoples) na área de Front End!
 
 > Lembre-se que não existem super-heróis aqui, são pessoas comuns mas que têm muito a acrescentar à sua carreira. Use os meios de comunicação com eles de forma respeitosa e amigável.
 
@@ -126,7 +133,3 @@ Se você quer trabalhar no exterior, dê uma olhada nessas dicas:
 
 * [5 passos para começar sua carreira internacional](https://medium.com/@caiotozzini/5-passos-para-come%C3%A7ar-sua-carreira-internacional-3af9b906bec6#.pmy6tqo6j)
 * [Trabalhar no exterior](https://github.com/frontendbr/forum/issues/56)
-
-## Perguntas frequentes sobre Desenvolvimento Front End
-
-Com base nas questões repetidas que vi nos fóruns, criei esse [repositório ("FFAQ", Frequently Front Asked Questions!)](https://github.com/woliveiras/FFAQ/) para centralizar as respostas e ficar mais fácil responder perguntas tão comuns.

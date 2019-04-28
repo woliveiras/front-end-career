@@ -1,6 +1,10 @@
-# Níveis de carreira do(a) Desenvolvedor(a)
+---
+layout: default
+---
 
-## "Júnior"
+## Níveis de carreira do(a) Desenvolvedor(a)
+
+### "Júnior"
 
 > O(A) jovem Padawan
 
@@ -20,7 +24,7 @@ Seria interessante você possuir um [mentor](https://github.com/training-center/
 
 Quando você ganhar XP suficiente, vai virar **Pleno**!
 
-## "Pleno"
+### "Pleno"
 
 > Daqui a pouco você vira mestre e vai começar ensinar alguém! =O
 
@@ -40,7 +44,7 @@ Só não deixe isso subir a cabeça!
 
 O nível **Sênior** é o que vai te dar mais trabalho e responsabilidade e pode ser alcançado quando você tiver entre 4 a 6 anos de experiência. Mas não foque no tempo, foque nos conhecimentos técnicos e outras capacidades que você deve possuir.
 
-## "Sênior"
+### "Sênior"
 
 > Parabéns, você venceu muitas lutas, conquistou muitos títulos e agora pode ser considerado um Mestre (ou logo menos)
 
@@ -62,6 +66,6 @@ Agora que chegou a esse nível está mais que na hora de transmitir seus conheci
 
 `----------------------------------------------------------------`
 
-Se você estiver buscando uma fonte de estudos, dê uma [olhadinha aqui](/translations/pt-br/study-guides.md).
+Se você estiver buscando uma fonte de estudos, dê uma [olhadinha aqui](/translations/pt-br/study-guides).
 
-*[Voltar para "escolhendo um lado"](/translations/pt-br/README.md#escolhendo-um-lado)*
+*[Voltar para "escolhendo um lado"](/translations/pt-br/#escolhendo-um-lado)*

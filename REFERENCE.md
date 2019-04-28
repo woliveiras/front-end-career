@@ -1,4 +1,8 @@
-# Reference
+---
+layout: default
+---
+
+## Reference
 
 All fonts to create this project.
 

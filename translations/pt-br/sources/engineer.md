@@ -1,8 +1,12 @@
-# Níveis de carreira do(a) Front End Engineer
+---
+layout: default
+---
 
-## Front End Engineer Júnior
+## Níveis de carreira do(a) Front End Engineer
 
-Agora que você sabe quais suas responsabilidades como [Desenvolvedor(a) Júnior](/translations/pt-br/sources/developer.md#júnior), chegou a hora de focar nos requisitos técnicos.
+### Front End Engineer Júnior
+
+Agora que você sabe quais suas responsabilidades como [Desenvolvedor(a) Júnior](/translations/pt-br/sources/developer#júnior), chegou a hora de focar nos requisitos técnicos.
 
 Requisitos para Front End Engineer Júnior:
 
@@ -21,9 +25,9 @@ Não corra durante os estudos, pratique muito tudo o que você aprender até ter
 
 Caso você já domine essas coisas, talvez você já seja um(a) **Front End Engineer Pleno**!
 
-## Front End Engineer Pleno
+### Front End Engineer Pleno
 
-Nesse nível você já domina os requisitos técnicos que um **Junior**, sabe o que um(a) [Desenvolvedor(a) Pleno](/translations/pt-br/sources/developer.md#pleno) precisa e atua com isso há um tempo, necessitando, agora, de coisas como:
+Nesse nível você já domina os requisitos técnicos que um **Junior**, sabe o que um(a) [Desenvolvedor(a) Pleno](/translations/pt-br/sources/developer#pleno) precisa e atua com isso há um tempo, necessitando, agora, de coisas como:
 
 * Escalabilidade
 * Manutenibilidade
@@ -40,9 +44,9 @@ Nesse nível você já domina os requisitos técnicos que um **Junior**, sabe o 
 
 Se você já domina tudo isso, então você deve estar no nível **Sênior** ou chegando lá.
 
-## Front End Engineer Sênior
+### Front End Engineer Sênior
 
-Nesse nível você já domina os requisitos técnicos de um **Pleno**, sabe o que um(a) [desenvolvedor(a) Senior](/translations/pt-br/sources/developer.md#sênior) precisa e coisas como:
+Nesse nível você já domina os requisitos técnicos de um **Pleno**, sabe o que um(a) [desenvolvedor(a) Senior](/translations/pt-br/sources/developer#sênior) precisa e coisas como:
 
 * Domina, de fato, os Paradigmas de Programação e boas práticas com JavaScript
 * Pode ou não saber mais de uma linguagem de programação
@@ -61,6 +65,6 @@ Nesse nível você já domina os requisitos técnicos de um **Pleno**, sabe o qu
 
 `----------------------------------------------------------------`
 
-Se você estiver buscando uma fonte de estudos, dê uma [olhadinha aqui](/translations/pt-br/study-guides.md).
+Se você estiver buscando uma fonte de estudos, dê uma [olhadinha aqui](/translations/pt-br/study-guides).
 
-*[Voltar para "escolhendo um lado"](/translations/pt-br/README.md#escolhendo-um-lado)*
+*[Voltar para "escolhendo um lado"](/translations/pt-br/README#escolhendo-um-lado)*

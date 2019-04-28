@@ -1,23 +1,21 @@
 <p align="center">
-  <img src="./img/frontend_development.png" alt="Front End Development" width="350px">
+  <img src="./images/gollum-my-precious.png" style="max-width:100%;"/>
 </p>
 
-# Front End Career
+# My precious links
 
-A career guide to Front End Developers
+## O que é?
 
-## Languages
+Um repositório para meus links favoritos. - Aqueles do navegador mesmo. Assim eu limpo um pouco, pois, atualmente, já tenho 1200+).
 
-Look the guide in your language. ;D
+## [The Precious](woliveiras.com.br/my-precious-links/)
 
-* [en](translations/en/README.md)
-* [es](translations/es/README.md)
-* [pt-br](translations/pt-br/README.md)
+**OBS**
 
-[*Reference*](/REFERENCE.md)
+*Esse repositório nasceu como Dailylogs, porém, depois de uma boa conversa com um amigo ([@marquinhusgoncalves](https://github.com/marquinhusgoncalves)), decidi deixar somente os links mais importantes aqui para futuras consultas ou para outras pessoas interessadas em conhecimento.*
 
-Made by Front End community for all people.
+*Inicialmente inspirado em: [Dailylog do Zeh Fernandes](https://github.com/zehfernandes/dailylog/) e [Dailylog do Luiz Felipe](https://github.com/lfeh/dailylog).*
 
-## Contribute
+[Sobre mim](http://woliveiras.com.br/about/)
 
-Look the [contribute guide](/CONTRIBUTE.md) and go send pull requests!
+

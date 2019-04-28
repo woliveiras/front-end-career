@@ -1,14 +1,18 @@
-# Contribute guide
+---
+layout: default
+---
 
-## Opening issues
+## Contribute guide
+
+### Opening issues
 
 If you found a problem or have a suggestion, open a issue.
 
-## Solving Issues
+### Solving Issues
 
 Look at the issues and get a problem to solve! :smile:
 
-## Translating the Project
+### Translating the Project
 
 The Project, in its originality, was written in Portuguese (br), but other people need to read this too.
 

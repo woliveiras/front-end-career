@@ -1,0 +1,50 @@
+ <!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="description" content="{{ site.description }}">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ site.title }}</title>
+  <link rel="stylesheet" href="{{ site.baseurl }}/css/normalize.css">
+  <link rel="stylesheet" href="{{ site.baseurl }}/css/solo.css">
+  <link rel="stylesheet" href="{{ site.baseurl }}/css/syntax.css">
+  {% if site.font-awesome-include %}<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">{% endif %}
+  <link rel="stylesheet" href="{{ site.baseurl }}/css/rrssb.css">
+  <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+  <link rel="canonical" href="{{ site.url }}" />
+</head>
+<body>
+  <article>
+   <div class="container">
+    <h1><a href="/">{{ site.title }}</a></h1>
+    <!-- Home feed Ad -->
+    <ins class="adsbygoogle"
+      style="display: block;max-width: 720px;height: 90px;margin: 0 auto;margin-top: 1em;"
+      data-ad-format="fluid"
+      data-ad-layout-key="-c1-29-17-fs+yn"
+      data-ad-client="ca-pub-3477794539929090"
+      data-ad-slot="2972522164"></ins>
+    <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+    {{ content }}
+    </div>
+  </article>
+
+  <!-- In Post Ad -->
+  <ins class="adsbygoogle"
+      style="display: block;max-width: 720px;height: 180px;margin: 0 auto;"
+      data-ad-layout="in-article"
+      data-ad-format="fluid"
+      data-ad-client="ca-pub-3477794539929090"
+      data-ad-slot="4075871768"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+
+{% include sharing.html %}
+ 
+   <footer>
+    <div class="credits">
+      <p>Links by <a href="http://woliveiras.com.br">William Oliveira</a>, theme by <a href="http://jekyllthemes.org/themes/good-clean-read/">Adam Dueck</a>, hosted on <a href="http://github.com/woliveiras/my-precious-links">GitHub</a>.</p>
+    </div>
+  </footer>
+</body>
+</html>
