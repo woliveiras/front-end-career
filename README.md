@@ -18,4 +18,4 @@ Um repositório para meus links favoritos. - Aqueles do navegador mesmo. Assim e
 
 [Sobre mim](http://woliveiras.com.br/about/)
 
-
+"Make your language readable. Convert it in english so that everyone can understand and the layout can also be improved much more. Thank you."
